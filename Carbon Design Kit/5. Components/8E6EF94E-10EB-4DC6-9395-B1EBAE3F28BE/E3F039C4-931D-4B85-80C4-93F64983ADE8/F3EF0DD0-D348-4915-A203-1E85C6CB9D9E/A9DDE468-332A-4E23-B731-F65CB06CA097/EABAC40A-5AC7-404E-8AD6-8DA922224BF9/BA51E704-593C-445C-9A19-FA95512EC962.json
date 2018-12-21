@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA51E704-593C-445C-9A19-FA95512EC962",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03627C42-EA33-46E6-A671-D1EAD616558A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDC65921-EF78-4F94-824C-1E7ACA035A46",
+    "height": 121,
+    "width": 300,
+    "x": 0,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Inline Dropdown/States/Hover, open",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB52F061-1E87-4245-AD67-1719CD7012C6",
+      "overrideName": "79FC34EE-5DD5-4AD7-991F-47708C6A293D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0511A36A-50A3-45A0-BE24-2A8D3611454E",
+      "overrideName": "76211A3D-A5DD-4EC6-AA46-DE597F56F4C9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B281ACFD-BA12-49CC-93BA-0FC9225D5C62",
+      "overrideName": "E27352DA-5E65-44F8-B6C9-9FA89C4177CA/A11C6219-D16D-4CDC-A5A4-70CAAB0E4E3C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FE02457-58FD-4FD6-9360-E6C9804BBEE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF35FAA0-10E8-4291-8CC4-232A826AFC64",
+  "verticalSpacing": 0
+}

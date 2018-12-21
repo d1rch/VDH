@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "09E4503A-C6C4-46B2-BA5F-1EEA29339F14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75B2EB85-6DC6-4431-BFE1-B39455D765DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B032D97-5CE8-4D37-9504-28ECD15A004D",
+    "height": 946,
+    "width": 1082,
+    "x": 1316,
+    "y": 2418
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "272EA97C-77F2-41F9-AFE1-7E22D4B749AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD4565D-88CA-4D0A-950D-3A1387E63C1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B676A37-FDD4-49D1-869A-A1D9B3BB9473"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFEF23BF-C10D-4C81-B18F-C51065D257E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F847B331-0424-45D2-99CC-CF2360CCC801"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2603AE6-5A01-4F3B-8264-F93BC02BCCB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C83335A9-CD22-4B93-8104-62E5C30425FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA579104-B848-4E78-A6BA-1EDB18BAEC28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7971F9F0-46F3-40CD-9C71-853732DF0099"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A549BE3-9B41-4ACC-8AE4-07EBAD78DD46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "165293A8-065F-418A-9D0C-BFF0FE02DDC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "329D991C-1533-4FCA-B013-C07285DEC493"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8F8C12F-2F17-41E2-B2AD-40DFED42EC02"
+    }
+  ],
+  "name": "Filterable Dropdown with label",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32C7B91E-B652-4D59-878B-388B3C43CEBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

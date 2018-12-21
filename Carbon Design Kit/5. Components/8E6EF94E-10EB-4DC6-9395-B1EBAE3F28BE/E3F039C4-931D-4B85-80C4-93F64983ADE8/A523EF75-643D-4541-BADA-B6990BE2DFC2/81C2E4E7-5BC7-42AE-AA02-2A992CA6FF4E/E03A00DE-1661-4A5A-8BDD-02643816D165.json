@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E03A00DE-1661-4A5A-8BDD-02643816D165",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "888C2EAD-E12C-42F9-B9F6-298E8A9A41C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC8C03BF-CD04-435C-8729-0E9D03627C19",
+    "height": 296,
+    "width": 283,
+    "x": 1,
+    "y": 463
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Date Picker/Date Range Picker/Selected Dates",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC262656-64A2-4809-907D-F79BDAF7E135",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AD4FF82-F5F5-4857-83BD-86293AC26F4B",
+  "verticalSpacing": 0
+}

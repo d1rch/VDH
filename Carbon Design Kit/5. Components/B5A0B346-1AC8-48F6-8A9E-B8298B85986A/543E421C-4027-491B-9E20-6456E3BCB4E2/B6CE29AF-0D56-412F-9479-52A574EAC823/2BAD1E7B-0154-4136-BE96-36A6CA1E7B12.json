@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BAD1E7B-0154-4136-BE96-36A6CA1E7B12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "508715F1-7383-426D-BFBA-C64E5DA42D5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0151322E-F601-4430-AF79-FD7A5E0BC9B2",
+    "height": 18,
+    "width": 39,
+    "x": 129,
+    "y": 0.8746736185407826
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Breadcrumb/Pieces/States/Truncated",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24AA292E-708C-4EB5-9611-302354027AA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E4D3DBC-169D-4A84-B984-A8A4D1F5821F",
+  "verticalSpacing": 0
+}

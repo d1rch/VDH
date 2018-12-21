@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C3A7330-E05F-4B5F-A19C-F78ED4F16FC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "898DA7F3-E18C-4E6D-8D44-FA9584937EF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E89067F-9269-4CEF-9896-3A1BB86AB10D",
+    "height": 14,
+    "width": 64,
+    "x": 0,
+    "y": 171
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Skeleton State/Text Overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBC69E52-B5AB-4764-A309-9D074D04B2C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CB7F7C8-8A0E-4091-804E-877723DE71F2",
+  "verticalSpacing": 0
+}

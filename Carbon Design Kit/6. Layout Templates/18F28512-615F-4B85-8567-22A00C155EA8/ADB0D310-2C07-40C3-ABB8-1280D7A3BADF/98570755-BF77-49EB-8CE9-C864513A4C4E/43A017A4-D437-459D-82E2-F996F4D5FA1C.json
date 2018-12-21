@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43A017A4-D437-459D-82E2-F996F4D5FA1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF44F797-83EC-4B44-8E45-FE0F91952C5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41094B6C-0026-47FF-B1A2-F1EE2CD34A20",
+    "height": 24,
+    "width": 97,
+    "x": 630,
+    "y": 22
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Checkbox/Pieces/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24F8EE64-1A1D-4A75-8579-8B0B0152BC2C",
+      "overrideName": "654FB527-D6E8-406F-A7AB-7EBB4C94C1FF_stringValue",
+      "value": "Guacamole"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C64192A-0C20-45F4-9EFE-827DC4D9BED5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "456F7C85-6C43-414F-8EF1-95EBAB87EC35",
+  "verticalSpacing": 0
+}

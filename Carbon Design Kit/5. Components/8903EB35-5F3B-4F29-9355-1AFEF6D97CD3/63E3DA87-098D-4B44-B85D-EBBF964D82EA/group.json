@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "63E3DA87-098D-4B44-B85D-EBBF964D82EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "255A61C6-919C-4EDE-B6B2-BE8A11A80D6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDC9089A-6F3D-4DA3-9AA8-CBEE90D804BC",
+    "height": 417,
+    "width": 547,
+    "x": 200,
+    "y": 350
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26111FDA-86AB-4017-9587-211998092E9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B87D8F8-0E2B-4957-AF24-ACEFABA4E1D6"
+    }
+  ],
+  "name": "Accordion",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B0E6EB0-3B3A-44D4-A8BD-1810D132B35B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

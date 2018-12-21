@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "83AA2C0F-FFEE-499B-9708-20B480449CE8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 99,
+  "clippingMaskMode": 0,
+  "do_objectID": "E885143E-6FFD-4B9A-819F-E1D9192D9088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3936E77-857A-4242-8FDD-436293999D8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D54B065C-1965-4233-960C-E73FC78394C1",
+    "height": 16,
+    "width": 14,
+    "x": 228,
+    "y": 28511
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "87717800-BE2A-4500-8652-8DE924BD7D44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "958C52B6-1782-4D0D-A08A-F49B79725273"
+    }
+  ],
+  "name": "UI Icon/notifications-on/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39309DA1-9288-410F-B8A1-45243421C375",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56156AD3-ACA1-4168-9BF4-A2ED725D15B1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22CC78F6-7FB9-4B3D-9605-A74F350CF965",
+    "guides": [
+    ]
+  }
+}

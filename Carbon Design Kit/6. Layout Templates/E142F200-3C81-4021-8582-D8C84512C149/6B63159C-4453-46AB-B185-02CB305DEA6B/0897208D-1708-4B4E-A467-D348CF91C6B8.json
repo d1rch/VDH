@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0897208D-1708-4B4E-A467-D348CF91C6B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52640075-BC47-4BCB-84EF-2955B49EBD07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D94643F0-7AC6-4695-914E-28AD1EF07B66",
+    "height": 18,
+    "width": 59,
+    "x": 119,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Breadcrumb/Pieces/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A59F879F-B855-408D-9D65-1A4F40243695",
+      "overrideName": "15A94FE6-FC49-4E3E-B5A3-C60029169962_stringValue",
+      "value": "News"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "076D09B9-53D6-486D-A052-88433E68AEC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "291CB7C2-F7A1-4B21-8726-8036EAFEF8D8",
+  "verticalSpacing": 0
+}

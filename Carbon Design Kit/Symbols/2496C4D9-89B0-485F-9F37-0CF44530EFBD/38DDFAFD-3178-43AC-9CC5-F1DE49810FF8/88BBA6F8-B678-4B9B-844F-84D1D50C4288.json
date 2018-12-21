@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "88BBA6F8-B678-4B9B-844F-84D1D50C4288",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27D4B187-8F40-4400-AF49-FA9A0E0044E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C44A76B7-51F7-437B-B56F-4885B2F8B548",
+    "height": 32,
+    "width": 140,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Pieces/Background/Small primary, enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7008DE89-70A5-45BA-91B1-56B16C39F85A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB877DF2-AB64-4010-92AB-B5EE9FA8E8D2",
+  "verticalSpacing": 0
+}

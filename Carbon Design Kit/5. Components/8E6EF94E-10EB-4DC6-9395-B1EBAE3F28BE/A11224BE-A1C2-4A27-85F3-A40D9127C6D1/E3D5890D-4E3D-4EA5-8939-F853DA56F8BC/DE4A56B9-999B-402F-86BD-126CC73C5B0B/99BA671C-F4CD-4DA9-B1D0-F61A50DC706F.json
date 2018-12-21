@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99BA671C-F4CD-4DA9-B1D0-F61A50DC706F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D03DBE3-8744-4E38-9391-A807A7242ECE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "848D1B14-30FA-4476-B187-E4504F70762B",
+    "height": 81,
+    "width": 303,
+    "x": 0,
+    "y": 632
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/States/Helper Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D6DF001-1B03-490F-9782-0E17E474BFAB",
+      "overrideName": "0A3C463B-B3D3-4BAE-A7B0-F892ACDEA2B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AB8D596-D286-4AFF-9292-FE458EDADD3A",
+      "overrideName": "42F8B1D9-47A2-4732-8F4B-C585072F7282_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88F4D2C8-386E-4350-8AEF-88EA6C18E09D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F757199-F1C5-45DC-9974-F713C5DD0043",
+  "verticalSpacing": 0
+}

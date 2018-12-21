@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD8C2D4C-E980-4A9D-8810-CF976D009E03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55C0BFEA-EA36-40B4-83C3-F546BC627296",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72C57962-79A3-418E-93A6-3245E2124030",
+    "height": 40,
+    "width": 199,
+    "x": 0,
+    "y": 745
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C797D16F-A7E1-4985-8D1C-0828C43D2E52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D5D8E25-541D-4A86-A32C-3D900E74FE53"
+    }
+  ],
+  "name": "Collapse bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE00D7B7-7F15-408B-A2DC-9B2EDD870D30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

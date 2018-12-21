@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DAD2237-97D3-4FF4-AB2B-49946E0F00B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A5DA138-13DD-4CFD-A75D-CB27760B89EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41A961D7-517A-4F57-ABCB-5D0AFB0803D8",
+    "height": 186,
+    "width": 300,
+    "x": 226,
+    "y": 404
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Dropdown/States/Open, focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15C465F4-B3AC-4D13-A5D6-B50E1B3050CA",
+      "overrideName": "41A26933-2928-493C-9336-8282F13BEE12/C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Dropdown Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F7828BE-B8E2-4055-AB63-9FC0F9BD2C64",
+      "overrideName": "60D126AD-0972-41E0-BEF8-E7D70F827D26/A11C6219-D16D-4CDC-A5A4-70CAAB0E4E3C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BBA678B-9D16-4856-87D1-BEB8AD6093E2",
+      "overrideName": "40BD99B9-7CB6-4801-94C4-0AEA24CAF05E/1FCCA8D1-5255-4F42-ADC0-D6CBCF3D7FEA_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D600A4FD-C258-4A1D-A7C2-1E338DAFBAE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57216121-8C74-418E-B6BF-5709F7B999E0",
+  "verticalSpacing": 0
+}

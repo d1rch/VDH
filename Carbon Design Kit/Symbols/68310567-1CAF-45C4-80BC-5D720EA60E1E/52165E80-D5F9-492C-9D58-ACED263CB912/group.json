@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "52165E80-D5F9-492C-9D58-ACED263CB912",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68591DEB-97E5-46F3-A5BE-61AE94888152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFA16D41-ADB1-4880-914C-5770363DC4D3",
+    "height": 32,
+    "width": 155,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2384DA40-5E32-4448-B0FD-46BBE95FA05D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4808E9B8-FA0C-4D97-B2B3-CE0EEFD3C517"
+    }
+  ],
+  "name": "Inline Select - Focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B27B8DE-BF3B-40BD-BD54-AAB8B552CEA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

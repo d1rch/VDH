@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D43D5AE3-C426-494A-A20E-F43578FCAEE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BC45786-7834-44FD-9AEA-2DBA715DDE26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C6C51DE-A9A0-4A83-8C33-24CC4C831BCF",
+    "height": 5,
+    "width": 10,
+    "x": 0.3087020509701688,
+    "y": 11.73025796543448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/Icon/caret--down/$brand-01",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBCA8996-C3B8-4DC3-8670-C98EA0D60527",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "465BA9E8-16C1-43FA-B600-97A6D89E4E41",
+  "verticalSpacing": 0
+}

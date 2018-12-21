@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C19771CE-C941-4E5B-B44A-F2C536203329",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6715A1C-4CE9-49D0-99E7-F4E240C0E160",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0C17DDD-AD9C-4861-975D-23A8132732D2",
+    "height": 65,
+    "width": 310,
+    "x": 331,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "71D75B80-DA95-4103-A5C0-07AAC80CF8BA/C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EC1CD76C-3A4B-41C3-B6CF-966815708C8D_symbolID",
+      "value": "4ED504FF-DE89-4129-ADA1-6F2120896141"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9AAAF492-40DB-43E0-8671-89B96DE14B92/1B4157A7-3607-48A0-AE2F-4D6C6D9D5B26_stringValue",
+      "value": "• • • • • • • • •"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B15B26B-1FB7-483A-A9F2-7A39601F18AE",
+      "overrideName": "2AC9DA30-B73A-4BDD-9704-673C83C7AEFF_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B7AED02-629F-48C3-A7AF-516CEFD63817",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CF90414-610B-45DB-9D21-C1136CE67D46",
+  "verticalSpacing": 0
+}

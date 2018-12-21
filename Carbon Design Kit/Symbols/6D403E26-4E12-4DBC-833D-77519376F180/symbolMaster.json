@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 73,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D403E26-4E12-4DBC-833D-77519376F180",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 97,
+    "x": 1343,
+    "y": 6729
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "83E74722-833A-4171-B01A-720651F1BE15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06750D78-D916-4736-AB44-F244BCA3BC84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A88C1E5B-1671-42CD-98D5-CD11D32B7190"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4648445-1373-4E42-A487-155C9EBC2DE5"
+    }
+  ],
+  "name": "Component/Date Picker/Simple Date Picker (mm-yyyy)/States/Active",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D1FB8CF1-8AD0-46EA-B741-F7011F794BE1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

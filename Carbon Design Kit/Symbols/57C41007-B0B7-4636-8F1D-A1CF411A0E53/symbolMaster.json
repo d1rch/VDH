@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7ED86712-DD38-4CB3-B45D-4E88558105A6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 101,
+  "clippingMaskMode": 0,
+  "do_objectID": "57C41007-B0B7-4636-8F1D-A1CF411A0E53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49C151E1-E1EC-4317-803E-A0497126165F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "523935BD-C4C1-477B-8F7A-2A895A9BC2AB",
+    "height": 16,
+    "width": 16,
+    "x": 232,
+    "y": 33255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4972B4D6-C788-4415-8E46-097C9136EFF0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E1984D4A-A872-4765-AACE-5879CA089A91"
+    }
+  ],
+  "name": "UI Icon/visibility-off/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1547FF4-BA60-492B-9707-C326EF306D85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59EB7250-9610-40D1-B942-2C1ED649F6DE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D15014A5-D594-406F-ADAC-B1E065BAC78F",
+    "guides": [
+    ]
+  }
+}

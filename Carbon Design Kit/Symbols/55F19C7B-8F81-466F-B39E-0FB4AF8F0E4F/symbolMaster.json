@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D3253DCB-1CF6-4177-915E-4FA03CD02CE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 138,
+  "clippingMaskMode": 0,
+  "do_objectID": "55F19C7B-8F81-466F-B39E-0FB4AF8F0E4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC56F086-73B8-4706-965E-72DB4DA63E26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B539EA2-114D-4F3D-98A1-165DBA3255FF",
+    "height": 11,
+    "width": 16,
+    "x": 232,
+    "y": 23142
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "89C9DD16-0040-49EA-8255-27BA738B831B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7AE85D4D-BC85-4D2E-AC09-FD8B786A3550"
+    }
+  ],
+  "name": "UI Icon/email/$ui-05",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "928184A6-429A-4A76-9C03-B9933683E90F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19653722-CA38-4C88-A7E7-5F2D6F6D63CB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CA64205E-2E95-4BE0-8717-D4F35082E975",
+    "guides": [
+    ]
+  }
+}

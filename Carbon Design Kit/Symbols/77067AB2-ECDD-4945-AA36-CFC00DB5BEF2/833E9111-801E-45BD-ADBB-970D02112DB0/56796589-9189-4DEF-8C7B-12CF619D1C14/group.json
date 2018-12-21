@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "56796589-9189-4DEF-8C7B-12CF619D1C14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 418,
+    "x": 0,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "35AEA5E2-F979-4F6A-B86F-EF0F0B41E18C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD9B3D3D-25D5-436D-94DE-269C0ABBD9F6"
+    },
+    {
+      "class": "bitmap",
+      "id": "22B4A66F-9786-4AA1-956F-3CD563E3E863"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44F5AB8E-B9DF-4626-B1DB-2A109D1A9CBC"
+    }
+  ],
+  "name": "Input area",
+  "nameIsFixed": true,
+  "resizingConstraint": 49,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

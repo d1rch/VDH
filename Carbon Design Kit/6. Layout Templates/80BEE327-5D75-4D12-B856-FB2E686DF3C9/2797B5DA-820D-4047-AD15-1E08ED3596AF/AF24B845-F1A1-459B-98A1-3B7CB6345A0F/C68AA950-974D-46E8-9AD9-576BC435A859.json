@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C68AA950-974D-46E8-9AD9-576BC435A859",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F8DCCA1-C243-4C0A-8B20-C09B97135CAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "472C34E3-35E1-481F-AAB1-F2BDACA9826A",
+    "height": 32,
+    "width": 119,
+    "x": 22.06451612903226,
+    "y": 249
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Secondary/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BFAB1F8-B5C9-4DBC-A82F-6A896C1AF932",
+      "overrideName": "C1FFF628-A339-4DD6-9081-AE8395D06951_stringValue",
+      "value": "See our recipes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9BA0DA1-D1E6-49A7-9E22-24CECC6BFED4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD385D00-668E-4DC9-86B1-8562DE6C94E6",
+  "verticalSpacing": 0
+}

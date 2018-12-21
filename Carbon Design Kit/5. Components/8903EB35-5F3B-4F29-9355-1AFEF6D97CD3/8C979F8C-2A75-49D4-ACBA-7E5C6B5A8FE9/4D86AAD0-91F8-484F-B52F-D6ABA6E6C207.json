@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D86AAD0-91F8-484F-B52F-D6ABA6E6C207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EC25366-F0CC-4B30-A420-C5B68B50F7BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CEE5FE0-6197-4ED2-B2D4-F6ACD3AFC085",
+    "height": 568,
+    "width": 320,
+    "x": 696,
+    "y": 802
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Modal/Mobile/Transactional/Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "071B072A-45E3-450D-AA08-A5AAC4CE93C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E43FDFEA-4164-4CF6-856E-9153BAEF95F3",
+  "verticalSpacing": 0
+}

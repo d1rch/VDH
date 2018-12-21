@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFDAF82A-8EDB-4AD1-99B4-9C61708FFBB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76E647EB-4B1F-417E-902C-A1737FCE8FE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D49BDE8-061A-467E-A94F-C3203F8BB1F0",
+    "height": 32,
+    "width": 140,
+    "x": 0,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Primary/Small/Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E403CA2-33B0-47DC-9103-5AAD15F0A54E_symbolID",
+      "value": "FC2D6E01-1C54-4DA9-9412-AB233963BBDC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3C30EA0-7941-499A-BC4E-C8518CE06D01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC02C69B-22A0-4C7F-865D-6FE171988F7C",
+  "verticalSpacing": 0
+}

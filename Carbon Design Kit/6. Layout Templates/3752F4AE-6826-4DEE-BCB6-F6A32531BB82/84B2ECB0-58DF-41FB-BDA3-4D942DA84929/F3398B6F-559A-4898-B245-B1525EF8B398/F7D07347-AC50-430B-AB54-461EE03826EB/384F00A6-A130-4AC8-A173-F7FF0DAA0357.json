@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "384F00A6-A130-4AC8-A173-F7FF0DAA0357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "675B24D6-F95F-48CF-B2E1-D8502E92C9E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B48BCD12-0730-42D7-91F1-B34AE229C09A",
+    "height": 18,
+    "width": 57,
+    "x": 151.9999999999999,
+    "y": 6
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Inline Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7474ACC-EE50-4909-B2B8-0C1C86C9B2D2",
+      "overrideName": "80E6B8E6-CA55-4A9E-BA60-26D9105F17CC_stringValue",
+      "value": "Pico"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2500AF31-A090-4914-9CF9-BA857D121043",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7608CC0-EF07-40B8-B4AA-A79352A9C76E",
+  "verticalSpacing": 0
+}

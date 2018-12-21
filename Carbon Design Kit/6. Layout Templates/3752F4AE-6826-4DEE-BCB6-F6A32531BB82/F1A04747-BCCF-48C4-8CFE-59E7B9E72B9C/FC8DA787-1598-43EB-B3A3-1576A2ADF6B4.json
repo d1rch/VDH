@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC8DA787-1598-43EB-B3A3-1576A2ADF6B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DB963FE-C638-4744-B29E-96FA9041F419",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26D49310-F98A-43C3-9523-ACABB30181E6",
+    "height": 18,
+    "width": 82,
+    "x": 277,
+    "y": 22
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Ghost/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2553FA0-EB74-40A3-A1AB-67AC511A6B7F",
+      "overrideName": "9BBD460D-3292-4070-8155-4C33884BC38E_stringValue",
+      "value": "Add taco"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F393861D-0CCA-4031-A6AB-54D7C5C2ADE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5AAD634-41D2-4631-97EB-A802CE1568FE",
+  "verticalSpacing": 0
+}

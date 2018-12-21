@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BB31B22-A214-40AD-9A25-F6B47BE12029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47ADF583-59A4-4250-A9CA-7CE1E9F01531",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4874D8F-2332-420A-B2D3-6E9AD97B6CB7",
+    "height": 56,
+    "width": 640,
+    "x": 1,
+    "y": 135
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Code Snippet/Terminal",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFFB5B8E-3632-4F80-9AB8-4227A1857693",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C01452F-49F3-475D-8BD8-63602C4C047E",
+  "verticalSpacing": 0
+}

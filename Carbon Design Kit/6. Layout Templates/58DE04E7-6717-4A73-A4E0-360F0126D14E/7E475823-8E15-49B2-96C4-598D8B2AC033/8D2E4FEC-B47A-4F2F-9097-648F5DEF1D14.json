@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D2E4FEC-B47A-4F2F-9097-648F5DEF1D14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BC7E2F3-EDD8-481B-8B80-0900F47AB52C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CB0C8FB-A164-47D9-8E6A-D9D1E182651E",
+    "height": 40,
+    "width": 121,
+    "x": 94,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/1. Primary/Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09F70C07-6B72-4C8B-A03C-E6F879DEBDA8",
+      "overrideName": "B60B8B18-DB40-49B5-87DB-FE3DC848A0DC/6E873B50-CC3F-4FCB-897E-0CFBC84B1154_stringValue",
+      "value": "Choose items"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D916548B-3F6E-4F6C-8BBE-819DEFF809BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E591C2E3-2849-45EF-826B-34820A5FFB6F",
+  "verticalSpacing": 0
+}

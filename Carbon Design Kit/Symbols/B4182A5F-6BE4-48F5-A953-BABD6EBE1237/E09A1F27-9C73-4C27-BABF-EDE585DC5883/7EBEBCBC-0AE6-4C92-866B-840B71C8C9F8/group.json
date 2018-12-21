@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EBEBCBC-0AE6-4C92-866B-840B71C8C9F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 252,
+    "width": 500,
+    "x": 0,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D9C8F03D-B84A-4301-B672-AD4DCD73BAA7"
+    },
+    {
+      "class": "shapePath",
+      "id": "D64C2AF7-89E6-46C9-992E-245C0792C1A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C79295A-89F5-4EC5-A159-7E91669ECE4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C47EC0C9-3BB3-45C2-A9D0-CA2484FA130F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A0ACBAA-525C-479C-A15B-C43F79E6CA6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5F1F733-C805-4103-BAD9-30B196B198BD"
+    }
+  ],
+  "name": "Dividers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D13DC88E-E810-4E9E-A379-9601D8946503",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 93,
+  "clippingMaskMode": 0,
+  "do_objectID": "49D20960-33B7-43BA-9B57-0DC2F4025C48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81979A0D-BDEB-4A93-8A72-F150CC127758",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8D8E68D-A9B2-4EB8-AD54-D912493B675F",
+    "height": 16,
+    "width": 14,
+    "x": 0,
+    "y": 28511
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C8BA423A-0C9C-48F8-84F8-B24261507D91",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FCF2EA54-5BA2-4D83-89CA-2687F68FA77C"
+    }
+  ],
+  "name": "UI Icon/notifications-on/$brand-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "130673A7-7AD5-485D-812B-65B22197357E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F689242B-A867-40BC-9BE3-AA56F435511A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0A5F5A4-18AA-4658-8C62-5881B211AF12",
+    "guides": [
+    ]
+  }
+}

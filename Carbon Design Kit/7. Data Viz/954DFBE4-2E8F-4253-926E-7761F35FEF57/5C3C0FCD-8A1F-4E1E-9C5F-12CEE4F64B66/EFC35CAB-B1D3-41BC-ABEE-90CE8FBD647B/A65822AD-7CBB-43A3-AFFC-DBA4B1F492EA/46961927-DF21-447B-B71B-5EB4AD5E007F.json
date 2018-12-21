@@ -1,0 +1,142 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46961927-DF21-447B-B71B-5EB4AD5E007F",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 459,
+    "x": 0,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taco Deli",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.19202750544662309, 0.71235778115012427}",
+      "curveMode": 1,
+      "curveTo": "{0.19202750544662309, 0.71235778115012427}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.19202750544662309, 0.71235778115012427}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.39544185729847503, 0.10977432944557883}",
+      "curveMode": 1,
+      "curveTo": "{0.39544185729847503, 0.10977432944557883}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.39544185729847503, 0.10977432944557883}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.58880548747276695, 1.0019085624001243}",
+      "curveMode": 1,
+      "curveTo": "{0.58880548747276695, 1.0019085624001243}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.58880548747276695, 1.0019085624001243}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.78941993464052296, 0.76473704251376062}",
+      "curveMode": 1,
+      "curveTo": "{0.78941993464052296, 0.76473704251376062}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.78941993464052296, 0.76473704251376062}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0003233932461875, 0.40385280955921515}",
+      "curveMode": 1,
+      "curveTo": "{1.0003233932461875, 0.40385280955921515}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0003233932461875, 0.40385280955921515}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7333333333333333,
+          "green": 0.8313725490196079,
+          "red": 0.2823529411764705
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

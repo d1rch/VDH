@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "676CCC69-83F9-4C73-8129-B14BCA788714",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 288,
+    "width": 1114,
+    "x": 1,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8613E7BC-B411-49A9-870C-AD5B421918E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "083B6A1A-220A-4107-AD68-D8451FE272C5"
+    },
+    {
+      "class": "rectangle",
+      "id": "660E76CA-FF6C-482B-99EE-E206E2C3A8D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "14533C38-6CA6-4363-8DD6-1BE772009C4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "5778A099-4430-43B7-A4FE-B03CBA01FD3B"
+    }
+  ],
+  "name": "Zebra stripes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

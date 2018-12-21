@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3132ED70-9D7B-48CB-B123-5D6499AA299A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 107,
+  "clippingMaskMode": 0,
+  "do_objectID": "509C4346-759E-4B1E-AD57-06B89F84B7D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "843B509B-BC5E-438B-9C45-25F186A3EB50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A832EE5-1E0C-47B7-8347-824AF24B09E4",
+    "height": 16,
+    "width": 14,
+    "x": 114,
+    "y": 28511
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BAC6CAF3-B157-4F85-9F80-9568139F2E64",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "544BA73F-66B8-4D88-8051-43AEBF36396D"
+    }
+  ],
+  "name": "UI Icon/notifications-on/$hover-primary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B814E966-2AF6-4B77-B9FE-EC429E2EE6E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C02605F0-C730-4673-9858-D6ECBB2BB505",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D2B3596C-4360-4BC6-919C-CEDA92FB94A1",
+    "guides": [
+    ]
+  }
+}

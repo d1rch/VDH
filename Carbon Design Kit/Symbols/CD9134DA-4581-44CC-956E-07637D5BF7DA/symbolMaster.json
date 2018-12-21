@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E1E2EE9F-DFC7-45EA-A2DE-765668B07E05",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 607,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD9134DA-4581-44CC-956E-07637D5BF7DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D462BCD-0B8A-4282-BCA6-BADBB4D14B4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05F6A936-F163-4EFF-A04B-D5A307941602",
+    "height": 83,
+    "width": 300,
+    "x": 4030,
+    "y": 11623
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE37FFF2-01AD-4B2D-B0ED-10588627EFEA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CDE0819B-F24B-4304-964A-D2CD2DF7E709"
+    }
+  ],
+  "name": "Component/Select/Select/States/Helper Text",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "131C69AB-F3B1-43CA-8DE9-D352C701F5A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42284844-C221-4F12-AE12-2F85530A1806",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F268C25D-D8E9-4D0B-984A-D0CF9B90EA40",
+    "guides": [
+    ]
+  }
+}

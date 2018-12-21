@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B5499EA-10FF-4A04-B478-17B498CC01D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C20EEE96-EB73-4CC2-A748-B7D30B1EB13A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF350377-4B60-4549-8D4D-23430447F78A",
+    "height": 40,
+    "width": 1116,
+    "x": 4.6875,
+    "y": 0.96875
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Pagination/Full Bar/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41677A5B-26DF-4642-8EDB-7D4A3FFF7512",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "740ACE2C-3626-4B5D-91C0-0341E88DB6B2",
+  "verticalSpacing": 0
+}

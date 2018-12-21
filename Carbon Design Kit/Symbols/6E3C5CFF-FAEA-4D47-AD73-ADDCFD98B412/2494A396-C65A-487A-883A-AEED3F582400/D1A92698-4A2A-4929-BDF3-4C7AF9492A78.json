@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1A92698-4A2A-4929-BDF3-4C7AF9492A78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B797AAD3-4791-4F41-BE0F-0F4974C67689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E77B892-8BE6-4106-B14A-2075D4585A55",
+    "height": 18,
+    "width": 80,
+    "x": 16,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Pieces/Text/White Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6B20C98-2B2F-437A-BD25-EEAEE1DC8445",
+      "overrideName": "6E873B50-CC3F-4FCB-897E-0CFBC84B1154_stringValue",
+      "value": "Button label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3955D77-36E2-4A6D-9CF2-CBE16B4E146D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A117175-F11E-4FB5-ACE5-44A27E1729A7",
+  "verticalSpacing": 0
+}

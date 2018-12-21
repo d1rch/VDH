@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C74D641C-EB08-44F9-BBEC-D631D734F953",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "674E7FB5-EA00-41A6-BF7C-A230BF8EF261",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DF99913-7040-4308-A262-EECA42419A86",
+    "height": 89,
+    "width": 170,
+    "x": 0,
+    "y": 593
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Radio Button/Vertical Stacked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1032A50-410F-4A26-95B4-021C5B7406CB",
+      "overrideName": "E3019E8E-C853-4243-B0F4-8B430066351A/80B78060-F126-4E07-8947-BE723002B043_stringValue",
+      "value": "Radio label 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AADB6774-5FC6-462C-8634-D1D6C95D3BF5",
+      "overrideName": "7DBD92B0-D898-4686-97FE-FD1D315C11D6/80B78060-F126-4E07-8947-BE723002B043_stringValue",
+      "value": "Radio label 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B09C1AD-DE65-4E63-98D9-6E16854E9B73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8A8C6F2C-42B2-46DD-B941-DD1EECEA4BF7",
+  "verticalSpacing": 0
+}

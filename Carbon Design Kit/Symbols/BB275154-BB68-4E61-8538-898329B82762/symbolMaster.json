@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3EFC6373-A9A3-4C1B-BC78-5CD3FAD0BFE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 93,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB275154-BB68-4E61-8538-898329B82762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A913C14-2367-4AC1-BAC9-4D526A49613B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB7561E8-CD4F-4C3B-951D-634228734A9C",
+    "height": 10,
+    "width": 16,
+    "x": 0,
+    "y": 21638
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "25D21108-7325-4173-B063-3424256577CE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6F8B5B80-EA12-49F0-96A5-2B7E5F204E58"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A225CA3-54EF-48AB-87BE-8BD25AE7F83B"
+    },
+    {
+      "class": "shapePath",
+      "id": "44ECC202-2FDC-49A9-89B9-A1E0F9CED755"
+    }
+  ],
+  "name": "UI Icon/code/$brand-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57BDA71F-5F84-4C6A-9C5B-424357B38550",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D7DF91AF-7BC0-44D2-AB12-7A862ED87AAE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05F493FA-7605-45A0-A881-E856781FC9A0",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93AE9CF1-1F72-4E7F-8FEE-113287E7D125",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F480BAB-5B52-445D-A933-421E20D8D5B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4182FDE5-6E36-4110-AD99-CE1AD17434AC",
+    "height": 24,
+    "width": 149,
+    "x": 0,
+    "y": 76
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Checkbox/Pieces/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60B66E39-5F9A-4411-A6A0-DF2E78161057",
+      "overrideName": "654FB527-D6E8-406F-A7AB-7EBB4C94C1FF_stringValue",
+      "value": "Tacos"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDB98EFD-9227-4CEF-957E-D581B11DF93C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "456F7C85-6C43-414F-8EF1-95EBAB87EC35",
+  "verticalSpacing": 0
+}

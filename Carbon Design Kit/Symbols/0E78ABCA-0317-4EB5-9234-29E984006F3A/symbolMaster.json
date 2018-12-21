@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 65,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E78ABCA-0317-4EB5-9234-29E984006F3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 300,
+    "x": 20151,
+    "y": 7225
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "573D2F4D-57E0-44AC-9219-930048384173"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC46030A-E83F-4649-AAEB-C1DB9F4430CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4AA071E-3FBA-435E-81FF-D5955DDBFEB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1C3A687-4053-4FB4-B184-F5642D665BB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2751D8E0-38CB-4F68-B8D3-D488740EC1EF"
+    }
+  ],
+  "name": "Component/Dropdown/No Label/Multi-select/States/Background/Open - Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "73AC58F3-7439-4582-8446-6A721D5E73D6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

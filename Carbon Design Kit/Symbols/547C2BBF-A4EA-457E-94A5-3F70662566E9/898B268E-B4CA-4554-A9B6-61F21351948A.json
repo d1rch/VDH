@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "898B268E-B4CA-4554-A9B6-61F21351948A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE4BEF41-1094-4800-970E-1B13DDE02617",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CC40A1A-6F4C-415D-A754-E53EF5A82ACD",
+    "height": 40,
+    "width": 1204,
+    "x": 0,
+    "y": 0.8102789851600392
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Pieces/Background/field-01",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B74C73D-6059-4777-8D4E-6AFE15FD8B6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "94C04B5D-26C5-418F-9BAA-5B647118294E",
+  "verticalSpacing": 0
+}

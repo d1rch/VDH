@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA336A68-89DF-4C1E-8247-597CC46F12CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A26DB7D-7B23-469C-8FB1-83E2BBD5CF4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BABCEEB6-A08D-46A1-B097-D43FD58C6096",
+    "height": 12,
+    "width": 8,
+    "x": 42,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1FAB8CF3-DAC2-487D-B16C-9135413D8086"
+    }
+  ],
+  "name": "Icon/UI/Chevron/Light UI",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D8FE788-26B0-40BF-83FF-ED9095BA5BD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

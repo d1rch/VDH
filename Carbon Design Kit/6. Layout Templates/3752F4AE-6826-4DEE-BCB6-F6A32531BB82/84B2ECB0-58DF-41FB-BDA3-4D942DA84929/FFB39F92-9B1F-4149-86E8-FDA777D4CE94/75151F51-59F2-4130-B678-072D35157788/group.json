@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "75151F51-59F2-4130-B678-072D35157788",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAD5B7CA-C42C-4C64-B034-910478DF1152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F29F1EF4-1B71-42F1-AC02-C8A925C0753C",
+    "height": 92,
+    "width": 320,
+    "x": 156.0000000000001,
+    "y": 233
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B9CB8245-2F26-4A6E-B87D-7594AD7560A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92A7BC5D-950B-47C1-A212-43923A80220D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F50ADE6-2882-4B64-A59C-484CDF9AB949"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C14679F3-89DC-4897-BCED-AD2B43D5FAFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B571065-8778-4DB0-AC37-E31E4E5E9584"
+    },
+    {
+      "class": "text",
+      "id": "ED3A4779-78E6-4629-9E6A-1B9E42F4DF27"
+    }
+  ],
+  "name": "Taco # 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3BD6E06-3815-4FA6-B087-407710EC120B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

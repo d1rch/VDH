@@ -1,0 +1,81 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C9CEC14-70C9-4B68-8222-4120147CDB39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C097DED9-3292-4776-90E9-F25B2B1047AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAED545D-9ADA-4E82-9E31-45213F7624E3",
+    "height": 13,
+    "width": 13,
+    "x": 3.000088804544703,
+    "y": 3.000000000000625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B1480D78-42D3-46B5-A3C1-887D7FBE4E6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "32AE7830-86A9-4253-B6CA-8B9EEA5F1FDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F74DC28E-6B43-47E4-8493-CDBBC01E21F0"
+    }
+  ],
+  "name": "paper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "F1A3B36D-BBF6-4005-A497-063BD33BA1E4",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CACFA407-9B34-4645-9550-138B237DC429",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5490196078431373,
+          "green": 0.3450980392156864,
+          "red": 0.1882352941176471
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "95BBAB4F-6C03-4D98-8EC7-0ADAF4CDBA49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65A95968-D397-4CA9-A3ED-2B65CD84A791",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00AA9B48-0E3D-4E5C-A01B-0B28AB8D9A6F",
+    "height": 12.50228692612885,
+    "width": 12.50106193428744,
+    "x": 1.74946903285628,
+    "y": -0.7755138003158208
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5E8A4677-6E9B-42BB-91A5-9FE9E0E32868"
+    },
+    {
+      "class": "shapePath",
+      "id": "526C974B-C167-47BC-8E8B-C38DA8726601"
+    }
+  ],
+  "name": "Rectangle 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -45,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26E90E5D-F843-4A9B-8DB2-5AAA573C753D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.4392156862745099,
+          "red": 0.2392156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

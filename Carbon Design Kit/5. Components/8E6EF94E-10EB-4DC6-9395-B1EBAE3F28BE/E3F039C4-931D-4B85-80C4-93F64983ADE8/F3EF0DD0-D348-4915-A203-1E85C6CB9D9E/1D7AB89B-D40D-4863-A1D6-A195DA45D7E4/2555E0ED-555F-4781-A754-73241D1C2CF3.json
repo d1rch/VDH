@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2555E0ED-555F-4781-A754-73241D1C2CF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5CE5853-F3FC-49BB-BDF1-5F74B6C50FBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "947D6341-E7FE-4663-91FC-C0C4764FC793",
+    "height": 40,
+    "width": 300,
+    "x": 227,
+    "y": 206
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC593981-1715-4FA5-BC5E-17B8C6C25196",
+      "overrideName": "E0A50B77-99EB-4583-AE6F-131F4394C0BB_stringValue",
+      "value": "Dropdown label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96932B3E-04FD-4070-86D5-3417FE754A9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FEB6A916-2313-4C2C-B7F6-83BD5FA00381",
+  "verticalSpacing": 0
+}

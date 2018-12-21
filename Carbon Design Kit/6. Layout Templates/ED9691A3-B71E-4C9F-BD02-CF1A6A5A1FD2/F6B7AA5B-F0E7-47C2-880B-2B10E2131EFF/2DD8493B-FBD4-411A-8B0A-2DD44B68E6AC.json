@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DD8493B-FBD4-411A-8B0A-2DD44B68E6AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5249E9D0-A46D-4BAF-AD94-AF048F8263FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B74BB395-9574-4B6B-9B73-C08A42CE80CE",
+    "height": 14,
+    "width": 162,
+    "x": 20.7086229518502,
+    "y": 70
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Navigation/Pieces/Text/Parent, dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "785E11EF-4F8E-48D8-97ED-82BCF111384D",
+      "overrideName": "F099D23A-60BC-4577-B5E4-AB1BD48B0459_symbolID",
+      "value": "465BA9E8-16C1-43FA-B600-97A6D89E4E41"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71514BEA-68AA-40CC-A051-8866E1E08002",
+      "overrideName": "788B318C-B68F-4475-9936-0C577278C77D/6973C2BC-1947-486D-95B2-F8CAAC7E0B69_stringValue",
+      "value": "Locations"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F56ECCCC-C547-4DC7-A80A-E74AB4767791",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9D652F9-A3E1-429E-ABB6-7305A18A42FF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E85872D9-286B-494D-8555-AE4CB9491CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 452,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C2E1CDA9-AFF0-49FB-B9AE-E6FE0BD56190"
+    },
+    {
+      "class": "rectangle",
+      "id": "66A92AAE-A354-4D4C-82F0-3400A0A2AC60"
+    },
+    {
+      "class": "text",
+      "id": "A5F047AC-FE95-41CB-A525-2C287BD3E5B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "699785EE-F13A-4A97-B968-2735CCB9BC33"
+    }
+  ],
+  "name": "Content-Switcher - Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5DD5465F-80B8-4D26-98B3-95D8435A10C2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 100,
+  "clippingMaskMode": 0,
+  "do_objectID": "7046A73C-8AC2-4D53-8F2E-78CE130BDA96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC2204B3-0470-4F24-8CE6-9C820096D8CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1ABEFCAD-64E0-49A0-95A0-890C5C13AFD0",
+    "height": 16,
+    "width": 16,
+    "x": 116,
+    "y": 30449
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C6DA3593-FB6A-4C7A-B973-AC648877AE92",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD1E665D-0429-4347-8EBA-F67921BD3191"
+    }
+  ],
+  "name": "UI Icon/save/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02E56B5F-54AB-4285-8306-D9402935D50D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2E6491C-00A2-48D9-A353-1214359593B2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E3405F7D-7014-4FDD-BDE2-9EE4186EA087",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "08AF1ECF-FB55-40A2-9852-8473A2337D27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84E611C8-2DE8-4E3D-96FC-2F50C6F74722",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D18A031-CE03-4D72-9D06-9B8DA1AE8E7A",
+    "height": 18,
+    "width": 76,
+    "x": 372,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Tabs/Individual/In-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "518F91FB-208D-4793-A25A-F5C2534F534E_stringValue",
+      "value": "Tab name 4"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEE764B5-6739-4143-B2FB-68993E6ADA5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C906962-BCF1-4BCD-BFDF-C78D8DBFD02B",
+  "verticalSpacing": 0
+}

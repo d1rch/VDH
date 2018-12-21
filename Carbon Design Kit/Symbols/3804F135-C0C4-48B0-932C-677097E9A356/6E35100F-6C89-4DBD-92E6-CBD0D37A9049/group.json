@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E35100F-6C89-4DBD-92E6-CBD0D37A9049",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 180,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B01ACE67-7CC2-4F08-B469-C0BDC17A5359"
+    },
+    {
+      "class": "rectangle",
+      "id": "82782E8A-17EA-46AB-9245-B3989C9086FC"
+    },
+    {
+      "class": "text",
+      "id": "C591438C-1278-46BE-8B35-83F554BD5A7C"
+    },
+    {
+      "class": "text",
+      "id": "33702BC1-6445-4482-9369-55FD86E16D97"
+    }
+  ],
+  "name": "Tooltip - Truncation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

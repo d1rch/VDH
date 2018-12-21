@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "54C47491-AEEE-4E77-A327-52F8B8C76C34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1976,
+    "width": 902,
+    "x": 57,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C318D4B-7E91-4822-BCF2-9E170A64A892"
+    },
+    {
+      "class": "group",
+      "id": "EAD6F908-784E-4A57-9939-2E9980E2F5B8"
+    },
+    {
+      "class": "group",
+      "id": "A06A998B-136D-46C5-9CE0-AC16EC0CE8B3"
+    },
+    {
+      "class": "group",
+      "id": "2D13EE9F-CDD9-4FAB-9288-6A4BFAEB7046"
+    }
+  ],
+  "name": "About Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

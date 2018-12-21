@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D49DC4CD-F8D3-4C6C-86F9-4573FDD834D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A37D97B-9D7B-40F1-8D77-F1EAC16758BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BD0A302-8168-476B-95B6-E38DED8335CA",
+    "height": 34,
+    "width": 500,
+    "x": 0,
+    "y": 14.98571428571429
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0380AFBB-71F7-4828-BD8C-09B1582BCFE7"
+    },
+    {
+      "class": "text",
+      "id": "506B8424-88F5-4D98-9129-EAF4AA84680B"
+    },
+    {
+      "class": "text",
+      "id": "0F88203B-4CB3-4AFC-AA89-F1349BDCEB23"
+    }
+  ],
+  "name": "Additional ROw",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9751E25D-89E8-4452-BD65-ED8809D86BB4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

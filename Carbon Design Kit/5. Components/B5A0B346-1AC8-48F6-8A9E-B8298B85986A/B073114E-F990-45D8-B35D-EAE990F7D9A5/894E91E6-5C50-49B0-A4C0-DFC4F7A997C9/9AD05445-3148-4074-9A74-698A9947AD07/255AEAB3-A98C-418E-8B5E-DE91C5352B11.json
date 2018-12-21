@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "255AEAB3-A98C-418E-8B5E-DE91C5352B11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BD7E5FF-6C03-41F4-A01D-AAE20DE3B190",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CD101EE-88F5-41FC-80E6-A907C0BDD5A2",
+    "height": 12,
+    "width": 8,
+    "x": 350,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/Icon/chevron--left/$ui-05",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C377D28-6B48-43A6-AF5E-95925E95D7D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F18E49D4-C1EC-4726-8DBA-05B33750643C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "51E30815-C439-4E18-A4F6-C6C3094268E7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 121,
+  "clippingMaskMode": 0,
+  "do_objectID": "2729A7E8-1361-41EF-AB3F-1B61318C7CF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15C6DDC0-A26C-47C4-BC1B-B92EAA4CFBDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6EB04CE-A268-45E9-8B10-0279903D6A9D",
+    "height": 40,
+    "width": 300,
+    "x": 400,
+    "y": 13462
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DAC995D2-0493-4312-B47F-002D8B1C5C85",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A9B77F5A-9C56-475E-88C3-C575D7ED5975"
+    }
+  ],
+  "name": "Component/Text Input/Pieces/Background/field-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15E7B5D0-8F54-4D6C-AF26-487126CAE26F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6138FAE1-168D-4199-B8E0-12740615B216",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5C30E39B-C807-4E29-BC96-647DC4C24D3A",
+    "guides": [
+    ]
+  }
+}

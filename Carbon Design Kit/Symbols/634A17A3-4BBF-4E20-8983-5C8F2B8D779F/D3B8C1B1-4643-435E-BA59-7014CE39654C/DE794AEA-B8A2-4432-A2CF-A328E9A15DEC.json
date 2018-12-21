@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE794AEA-B8A2-4432-A2CF-A328E9A15DEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0400F423-648C-437C-93CD-B4A253DB71E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "013BF052-4DE0-43DC-A702-A9007CF07B88",
+    "height": 18,
+    "width": 192,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Pieces/Text/Label, enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76F09261-B113-408C-AA66-716464DE2476",
+      "overrideName": "E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Number Input Label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF05A195-94AC-4169-A925-29B9EFA34C11",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69380B66-DD22-426A-AF5D-AC38F3CB3B42",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4DDEF1B-D38F-468F-84CE-5E96C3784C74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58501859-8AFB-46FB-84E5-AF1DDE6039DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D0EA6CF-1BEB-4B74-AE53-5B54AF953897",
+    "height": 66,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Filter Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18B160EC-6E67-4974-8E0D-715D75B5673D",
+      "overrideName": "C78B92DF-664D-4997-B1C9-B5A2E4A99A1A_symbolID",
+      "value": "184B37D8-31FD-48E9-A945-C96A70253507"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1569EA11-DD48-4C4D-9921-17B3007D5097",
+      "overrideName": "C78B92DF-664D-4997-B1C9-B5A2E4A99A1A/C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Filter Dropdown label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71E6B91F-A3C8-4AE3-9835-9FEEA65FCFDF",
+      "overrideName": "AC70A5A5-73B6-43DD-A4DF-7FF7EC85D173/552EDBE7-CC9D-4B33-87D1-6B2AFA83F160_symbolID",
+      "value": "A0DC539C-6B48-4458-AC23-BB11D6D568EF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "373B53EC-755D-4063-AD72-AFF3A3DDFFCD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6554DEA3-E7F1-4CFF-A88A-94E2296E720D",
+  "verticalSpacing": 0
+}

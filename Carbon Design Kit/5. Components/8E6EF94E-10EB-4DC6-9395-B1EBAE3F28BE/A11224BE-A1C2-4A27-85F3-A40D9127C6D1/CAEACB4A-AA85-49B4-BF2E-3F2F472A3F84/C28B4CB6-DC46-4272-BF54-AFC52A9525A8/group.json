@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C28B4CB6-DC46-4272-BF54-AFC52A9525A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C439427-FE06-4DC7-893C-9DEF87A05CC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "881C02A2-CBB8-4633-B32C-94EA5D389204",
+    "height": 759,
+    "width": 284,
+    "x": 1385,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "274840D2-3B89-42F7-9E37-5EBA98D57EFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31AA7506-CE2E-42C5-BD3D-B8CA0E1D8579"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92B17894-DCF3-4A15-8122-11F80EECD461"
+    }
+  ],
+  "name": "Date Range",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BFBFE1F-C7E5-4319-B6BC-A9B21468946B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

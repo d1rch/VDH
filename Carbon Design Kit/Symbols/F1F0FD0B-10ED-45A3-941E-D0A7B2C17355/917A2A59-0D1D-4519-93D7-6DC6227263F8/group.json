@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "917A2A59-0D1D-4519-93D7-6DC6227263F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5064959-BDB0-4944-A676-8535569643E8"
+    },
+    {
+      "class": "group",
+      "id": "6ABA33E2-D954-4E81-9CD2-574DD9A8460A"
+    },
+    {
+      "class": "group",
+      "id": "C8DD4959-A4E2-48B6-A23F-D71F205D7CDE"
+    },
+    {
+      "class": "text",
+      "id": "54BD1DE8-00AA-4D66-A21F-2AEB09A2FDC9"
+    },
+    {
+      "class": "group",
+      "id": "05FEAF30-B846-4305-95A4-1A601408630C"
+    }
+  ],
+  "name": "Detail Page Header - tabs - scrolling",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "559478CB-B54B-4E22-B8A3-48F76358F280",
+        "version": 2
+      }
+    }
+  }
+}

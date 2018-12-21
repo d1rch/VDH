@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "57C53881-CB01-43A2-87F2-57CEAE359D63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A935B8E-19B6-4FC8-8C7B-4C6E769EE7C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85006ECF-C4E7-4FF3-91F1-C94503E9A27C",
+    "height": 18,
+    "width": 50,
+    "x": 79.99999999999977,
+    "y": 6
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Inline Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7474ACC-EE50-4909-B2B8-0C1C86C9B2D2",
+      "overrideName": "80E6B8E6-CA55-4A9E-BA60-26D9105F17CC_stringValue",
+      "value": "Corn"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92B8B160-A89A-411C-8CC5-23AA0F7F40B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7608CC0-EF07-40B8-B4AA-A79352A9C76E",
+  "verticalSpacing": 0
+}

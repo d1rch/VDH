@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF5A7023-2C26-46CC-89F8-8E9EDB482FE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D18557C-8BF9-495E-8944-EC8C48737DB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B5DA6A2-7F16-4DE4-ACA7-F0B933B7A4F4",
+    "height": 18,
+    "width": 70,
+    "x": 192,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Breadcrumb/Pieces/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A59F879F-B855-408D-9D65-1A4F40243695",
+      "overrideName": "15A94FE6-FC49-4E3E-B5A3-C60029169962_stringValue",
+      "value": "Articles"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07EDC0D2-FD02-45FA-80D9-3517084DF85C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "291CB7C2-F7A1-4B21-8726-8036EAFEF8D8",
+  "verticalSpacing": 0
+}

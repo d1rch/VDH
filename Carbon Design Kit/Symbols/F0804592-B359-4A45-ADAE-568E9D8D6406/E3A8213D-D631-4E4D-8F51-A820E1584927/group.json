@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3A8213D-D631-4E4D-8F51-A820E1584927",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80928340-6508-472C-8A99-722E75C9A4AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19854925-398E-4EDF-B729-14B0704C8DF2",
+    "height": 40,
+    "width": 168,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E76FE24E-A1D6-4CB7-A954-9473E21EE71E"
+    },
+    {
+      "class": "group",
+      "id": "D2A03F38-BF26-4C1E-8151-1631B675EEDB"
+    }
+  ],
+  "name": "Default Modal, button grouping",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA362737-F7D3-484D-86AE-E731C361C407",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

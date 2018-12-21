@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1974FEC1-809B-4B8F-A9BC-5EF7748E6E2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27D51D0F-A646-486A-902F-F458DCB3B1FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73DD391F-9EA1-47CB-ADA6-57FCFFFE0998",
+    "height": 47,
+    "width": 465,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB8C13D5-0294-41B3-B897-1A11BEA2CCDC",
+      "overrideName": "55A13777-F1AF-4A96-8B98-E342441505E8_stringValue",
+      "value": "Select Location"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31CA3D67-8934-440A-9434-8B37FA4FE0F8",
+      "overrideName": "3B6CA05A-1E98-437F-A0AE-A019D84082FC/379745A0-DECC-43A7-A982-135A0CFFF0D9_stringValue",
+      "value": "Delivery"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF816E77-B81B-456E-A7D1-FA0D2E739F60",
+      "overrideName": "38D9BA54-85D3-4E2D-8558-B00B498CD838/75C77F23-54BC-4174-BB70-D8B739A0DE74_symbolID",
+      "value": "F84FB570-033B-42B2-A7A2-9C3B11B5799D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E46DD7E5-8E4C-4A04-B428-4C86000DC03F",
+      "overrideName": "38D9BA54-85D3-4E2D-8558-B00B498CD838/2A7E5C1C-EB46-437E-978B-08FBED8E2D63_stringValue",
+      "value": "Select Items"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "148D1A3B-C39D-4814-B9B3-BB22D30BD02A",
+      "overrideName": "990139FF-7829-4792-A94F-82959980C0AA_symbolID",
+      "value": "006066F6-4A99-4960-9135-A8397F6340A4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FAD9F143-1B04-4812-B429-01ADCB42F323",
+      "overrideName": "990139FF-7829-4792-A94F-82959980C0AA/2A7E5C1C-EB46-437E-978B-08FBED8E2D63_stringValue",
+      "value": "Payment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FC8CD3F-76CF-4F30-93C6-421E320A4A0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7CA055C-B603-49AB-A1B9-946539F50492",
+  "verticalSpacing": 0
+}

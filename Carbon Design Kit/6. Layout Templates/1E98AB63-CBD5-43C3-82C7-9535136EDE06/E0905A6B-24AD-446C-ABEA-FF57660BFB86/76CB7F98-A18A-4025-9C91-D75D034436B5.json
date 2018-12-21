@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "76CB7F98-A18A-4025-9C91-D75D034436B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 129,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Ghost/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65194D2D-F411-4F85-ACC1-3D1FC9163587",
+      "overrideName": "9BBD460D-3292-4070-8155-4C33884BC38E_stringValue",
+      "value": "Download menu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBF0C1C8-978E-47E6-82DE-84B49AF706EB",
+      "overrideName": "3F440237-DE52-4B45-9BCD-D2EF6CF127BB_symbolID",
+      "value": "F2B02729-C0D7-4304-BC08-2628191721C2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5AAD634-41D2-4631-97EB-A802CE1568FE",
+  "verticalSpacing": 0
+}

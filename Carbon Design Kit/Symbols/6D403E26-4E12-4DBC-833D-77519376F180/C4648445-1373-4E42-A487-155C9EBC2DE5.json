@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4648445-1373-4E42-A487-155C9EBC2DE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE0281DA-4A8E-4CAA-8000-75A8A8396896",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98F7A2CE-C15C-4414-82F8-E775C997AB69",
+    "height": 18,
+    "width": 65,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Pieces/Text/Label, enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A27C57C-3676-4A32-8A15-0838CB079043",
+      "overrideName": "E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25553573-66D8-44BB-9AEB-B65FB439CDC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69380B66-DD22-426A-AF5D-AC38F3CB3B42",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EF4D656-1E40-4B23-97C8-49E65F02F81F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73C01720-37EA-4268-B45B-BA157AA88D0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48ED1A16-0561-4F63-B215-AE87DF36C922",
+    "height": 40,
+    "width": 121,
+    "x": 94,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/1. Primary/Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B5CF082-9C51-46B0-9FB4-EB4779096DB1",
+      "overrideName": "F253CD6B-A3A2-4A76-BCB0-0ADF73C2A119/6E873B50-CC3F-4FCB-897E-0CFBC84B1154_stringValue",
+      "value": "Review items"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E8986D5-7863-486D-B9CF-0E8F16AA5A29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "388470D1-AD1F-45FB-85C6-BB0C6B07E437",
+  "verticalSpacing": 0
+}

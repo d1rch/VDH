@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "230D5B5F-5035-4520-9576-54F4B83CE847",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 500,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E8076AD9-DEBA-4D3B-8B0B-923D6FE1F32A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3E7FB0A-BAFD-4992-B932-1778CE2621AB"
+    },
+    {
+      "class": "text",
+      "id": "F8CC54DE-BAB3-4C86-B46E-2615CF8F4A5B"
+    },
+    {
+      "class": "text",
+      "id": "514D7AEB-1F66-4F46-B0AE-B46803CC0307"
+    }
+  ],
+  "name": "Additional Row",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

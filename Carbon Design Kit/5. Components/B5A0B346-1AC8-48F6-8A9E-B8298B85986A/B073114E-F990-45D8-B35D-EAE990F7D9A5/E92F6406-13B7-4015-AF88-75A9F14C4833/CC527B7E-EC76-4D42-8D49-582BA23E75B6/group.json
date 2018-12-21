@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC527B7E-EC76-4D42-8D49-582BA23E75B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A9F61E2-6861-4865-BBBD-C5EC9CB8660D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A153E4E-5C62-4591-8F2D-D30B6D3F498A",
+    "height": 41,
+    "width": 166,
+    "x": 950,
+    "y": 279
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "68FDFFB5-A7C7-47F7-89B5-2B7FC0FDB161"
+    },
+    {
+      "class": "text",
+      "id": "7C03405B-453D-467F-ABEA-423F620C12EB"
+    },
+    {
+      "class": "group",
+      "id": "ADFD8521-4F42-4226-BC89-F39DE7558FD2"
+    }
+  ],
+  "name": "Pagination/Single page/Known #/Unbound",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4E2AAF5-C83C-401F-8B63-9DA776435387",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

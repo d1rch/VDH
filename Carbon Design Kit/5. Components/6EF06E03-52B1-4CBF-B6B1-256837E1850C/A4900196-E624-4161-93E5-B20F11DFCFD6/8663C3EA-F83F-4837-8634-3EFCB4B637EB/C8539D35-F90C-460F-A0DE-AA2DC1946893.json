@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8539D35-F90C-460F-A0DE-AA2DC1946893",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F95CE71-79F8-495A-A8C8-E3FCFA4A0965",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CF9628A-4C62-4598-943C-D1C475F239A8",
+    "height": 32,
+    "width": 128,
+    "x": 0,
+    "y": 290
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Secondary/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F47B154A-18CD-442B-BDA9-54A604BE4042",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD385D00-668E-4DC9-86B1-8562DE6C94E6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B56FF7C9-570D-49EA-A085-6BDDEBAF56E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8CE1DC5-DD6D-45A4-8D12-8E79D263A5E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "039568A2-23FD-4D33-B797-47E808F4C9AB",
+    "height": 785,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5479F995-E097-48EE-A0A0-8990D951C003"
+    },
+    {
+      "class": "shapePath",
+      "id": "9398451C-6C0A-4ADB-AA9D-909784BC55F6"
+    }
+  ],
+  "name": "Strucutre",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C809ED89-EDEB-4912-BB9B-919630509EDC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

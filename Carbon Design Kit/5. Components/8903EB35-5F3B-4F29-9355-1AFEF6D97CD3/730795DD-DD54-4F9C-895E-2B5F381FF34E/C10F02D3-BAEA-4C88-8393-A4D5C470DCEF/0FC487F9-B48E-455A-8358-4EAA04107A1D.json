@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FC487F9-B48E-455A-8358-4EAA04107A1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DDE091D-C057-4C58-8562-0C3D7027FEB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CE25006-7DA8-48DD-8DAC-E5B2B5762A70",
+    "height": 56,
+    "width": 561.0000000000008,
+    "x": 0,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Notifcation/Inline/Informational/Multi-Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "479CEA03-F6C9-424B-BCCC-6839241312FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F50C3FA-A4B1-45F6-8BCA-A768411E03BD",
+  "verticalSpacing": 0
+}

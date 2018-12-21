@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4074E709-25B3-446B-BA66-A7BC65C1EBBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65271AD4-7DBB-49B7-9FC6-896F45CBEDDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EFDB155-87D5-4B8F-99D6-92DCEC435C4B",
+    "height": 47,
+    "width": 131,
+    "x": 373.895833333333,
+    "y": 0.9828549278210872
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/Pieces/Future",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D5BE8C7-6AB7-48A2-B001-37CD1249ECA7",
+      "overrideName": "C80F412B-6BBE-4ED7-A95F-F880F52A9D0D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "880EE5D0-A70D-42C1-A504-A41165473B4D",
+      "overrideName": "379745A0-DECC-43A7-A982-135A0CFFF0D9_stringValue",
+      "value": "Review"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B8B604B-DB03-48F9-93DC-949D2254E121",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C01B0853-CE16-4BB2-BA1E-26C992D3826F",
+  "verticalSpacing": 0
+}

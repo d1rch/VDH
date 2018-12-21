@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93CEEA6E-0D6F-49FD-AD72-286DA1EAA2F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E46442ED-2406-4304-A4D4-0CFF3D2B11F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93D1C131-7A22-4579-A789-91AEDD8C3869",
+    "height": 66,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Multi-select Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84299C06-CF29-4043-B54C-97F7DD223863",
+      "overrideName": "5D0C4A5A-1411-49DB-A650-CFF270E9C4B2_symbolID",
+      "value": "184B37D8-31FD-48E9-A945-C96A70253507"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "805588DA-E354-4681-AB66-FC60AFE8AB76",
+      "overrideName": "5D0C4A5A-1411-49DB-A650-CFF270E9C4B2/C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Multi-select Dropdown label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC8313DD-BF2E-4507-9906-44B88EEBD86D",
+      "overrideName": "3B196713-9BF2-4083-ABCA-A73A95F9242C/4F20EA4E-4BCF-49DB-AFFC-ADBCC7FE0DF5_symbolID",
+      "value": "A0DC539C-6B48-4458-AC23-BB11D6D568EF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A15CC68-EEC0-40B0-90CD-91BA1687F31F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29B86F5B-1718-4AC6-A51D-5A3943B8D249",
+  "verticalSpacing": 0
+}

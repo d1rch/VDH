@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0C15DAB-3F65-49E0-8964-3584F26E0764",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8755FC9-EDA1-4A9C-8B80-8EE1A581BAB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AFED287-0A8B-40CE-8166-9E6FBC2AC73D",
+    "height": 18,
+    "width": 103,
+    "x": 20.00967255178512,
+    "y": 9
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Pieces/Text/White Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCB986A5-6489-4C54-8815-3E7ABC20D1D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A117175-F11E-4FB5-ACE5-44A27E1729A7",
+  "verticalSpacing": 0
+}

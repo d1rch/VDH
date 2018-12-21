@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "29E9A9C5-2F4A-4ECC-A5E2-313A4EFE445E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7E7D37B-8BAA-41FF-A83E-6AD1C1F13695",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E64EB97F-6032-4B65-932B-E46F79E07E48",
+    "height": 293,
+    "width": 639,
+    "x": 291,
+    "y": 1412
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DEAC3BCC-17A1-4693-8F2A-929CE606C011"
+    },
+    {
+      "class": "text",
+      "id": "B920E880-4F2D-45A5-B4A5-A8ACD0880E44"
+    }
+  ],
+  "name": "Taco Dictionary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D493A53-F5B5-4288-93B6-CB8F8B95DA20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "53855C27-F221-4E18-B7D9-FA007C3B10C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28C3FF9E-A3E9-4132-B3A6-7A46B3044A0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8D82731-EBFA-44DC-80C0-283509F82C88",
+    "height": 14,
+    "width": 16,
+    "x": 452,
+    "y": 238
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/arrow--left/$ui-05 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80CF798C-DA5A-4717-88FF-DAEE57EB1FF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5FCE10FF-EBAC-4871-A407-8BB129FC8086",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A30275EE-5284-4840-8956-E82BC381C605",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1022,
+    "width": 310,
+    "x": 1059,
+    "y": 146
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C0CA5A6-6BF2-40C0-A53F-0614F1FDD568"
+    },
+    {
+      "class": "group",
+      "id": "CD9B1CE1-CD5C-47EF-A0EB-3B0DB8462B23"
+    },
+    {
+      "class": "group",
+      "id": "646A231A-87EF-4CF9-A13F-0070F5BE1568"
+    },
+    {
+      "class": "text",
+      "id": "9EDBCBBA-3865-4518-95E5-DC99D55E432C"
+    }
+  ],
+  "name": "Right column tiles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

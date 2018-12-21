@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B676A37-FDD4-49D1-869A-A1D9B3BB9473",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D802E784-C6D0-481C-ABC8-082B9762A1F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F76A7E8-17B7-44DE-BE7C-5D415E07BAD5",
+    "height": 66,
+    "width": 300,
+    "x": 782,
+    "y": 769
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Filterable Dropdown/States/User Input - Selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1675C14B-8A1B-427E-8D67-B4C9CC904947",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B7314D7-0E05-4C13-A893-22DD28C17E22",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99D75960-538F-4946-B1DB-6D7D164FCC39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 412,
+    "x": 24,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AFFB4F94-87DA-4A17-B190-630AE0C955E2"
+    },
+    {
+      "class": "text",
+      "id": "50599932-1C0D-4612-8364-B5494F1DC131"
+    },
+    {
+      "class": "text",
+      "id": "FC052323-7D8A-4BA0-A7D1-0C1D02EA8447"
+    },
+    {
+      "class": "text",
+      "id": "129C5102-9209-474E-A26D-EDA6BE1C957A"
+    },
+    {
+      "class": "text",
+      "id": "4633507D-4BA1-4559-90AE-4F485DD23336"
+    }
+  ],
+  "name": "Tile list headers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

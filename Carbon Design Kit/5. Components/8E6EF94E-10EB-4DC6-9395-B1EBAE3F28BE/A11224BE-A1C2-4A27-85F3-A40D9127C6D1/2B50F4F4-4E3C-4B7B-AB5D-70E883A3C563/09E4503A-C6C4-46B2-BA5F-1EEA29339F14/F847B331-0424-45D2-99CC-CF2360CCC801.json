@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F847B331-0424-45D2-99CC-CF2360CCC801",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EBD1F61-81B9-42DE-8240-919BA1DF1474",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B3B8ADE-6315-4F6B-9FC0-74566202470F",
+    "height": 66,
+    "width": 300,
+    "x": 201,
+    "y": 190
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Filter Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFDD2753-1EFB-42BA-8672-F047624D0005",
+      "overrideName": "C78B92DF-664D-4997-B1C9-B5A2E4A99A1A/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Filter Dropdown label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92A84B18-B3F0-4493-9AAD-203D62484920",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6554DEA3-E7F1-4CFF-A88A-94E2296E720D",
+  "verticalSpacing": 0
+}

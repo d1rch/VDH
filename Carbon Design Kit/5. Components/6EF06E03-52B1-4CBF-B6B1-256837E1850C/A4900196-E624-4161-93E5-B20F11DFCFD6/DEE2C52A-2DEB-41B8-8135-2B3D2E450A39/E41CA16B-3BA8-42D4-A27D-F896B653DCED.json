@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E41CA16B-3BA8-42D4-A27D-F896B653DCED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9161A2CB-7D74-4757-940E-4A1A624E440A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F256F0B-EB81-41E9-B9BA-3F26A85E8A6D",
+    "height": 40,
+    "width": 143.9492753623188,
+    "x": 1.050724637681159,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Primary/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BF26A83-4B46-4C48-8C1C-3A838948722C_symbolID",
+      "value": "23810F80-D5F3-46D5-B2AA-D4F0B5A74C1A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB86A01C-4D78-4CCC-B7F4-3B77FED31111",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF4F8811-F0F9-4986-97D8-C6B5E8460B1A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "09C3A7FA-7F2D-465A-9955-5CC4D99F7E31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BABCC35-C8BF-48B8-8937-AB4AC2088E1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76EA7142-E09C-4D70-8676-3675B99F2391",
+    "height": 37,
+    "width": 101,
+    "x": 0,
+    "y": 133
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Toggle/Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9801A091-B1F6-4721-A5FF-0E9A2BDC46CE/0B6D09C4-6ECC-45F8-B0D1-8272589E8646_symbolID",
+      "value": "0FC47B38-A3FD-4E73-809D-4AA1753FC579"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEDCB310-B563-439D-AFEE-B07A9BC0B1CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B0411C3-D734-4851-9C88-86B3B8E84671",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C490913-B819-426E-9E1D-B007600BA126",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44C1D9C9-4928-4DA4-9FDA-90A910A0AC3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BE8D804-A275-4DBB-BA19-33A84360201B",
+    "height": 88,
+    "width": 150,
+    "x": 0,
+    "y": 480
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Checkbox/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3863028-9A5F-4DFD-8744-DFC5AF065EFA",
+      "overrideName": "5EB86BE4-8771-45B9-B8E9-E8CBE80516EA/654FB527-D6E8-406F-A7AB-7EBB4C94C1FF_stringValue",
+      "value": "Checkbox label 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D72B827-B390-41E2-8E25-E22F3C08ED0F",
+      "overrideName": "17AABD30-53C7-4839-8EED-D9A7B1DD85C3_stringValue",
+      "value": "Checkbox label 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1A0D6BC-15A2-440D-A0FC-8FC1E92AFD0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DD3273B-6C6D-41C7-A534-5BAB3E62C51A",
+  "verticalSpacing": 0
+}

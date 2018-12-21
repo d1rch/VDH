@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADD19144-49F0-4977-9701-968B3B765F53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 569,
+    "width": 1116,
+    "x": 0,
+    "y": 41
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Data Table/Default/Multi-select",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7D839C6-5482-4306-8E5F-0DC0655CB7E0_symbolID",
+      "value": "AF635221-CC68-4487-A769-4A21BD48C5A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8AB7FDBC-4D66-4553-96BF-11BBA3D3A945_symbolID",
+      "value": "4E2210AB-6F06-4831-86AF-69DACCB9B616"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A4F203E-52F4-4F9C-BEF6-1EE1FC5987A9_symbolID",
+      "value": "4E2210AB-6F06-4831-86AF-69DACCB9B616"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EF63576A-D73F-48D3-A3F9-59B0F10B8AF0_symbolID",
+      "value": "AF635221-CC68-4487-A769-4A21BD48C5A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "23E85743-AE03-4459-9BCB-0C385DB03D82_symbolID",
+      "value": "AF635221-CC68-4487-A769-4A21BD48C5A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "93B904BA-D9D2-449A-8278-D6147F03B955_symbolID",
+      "value": "4E2210AB-6F06-4831-86AF-69DACCB9B616"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5C092EC-175B-4FD4-B3E9-EA9A4DEF91D0_symbolID",
+      "value": "4E2210AB-6F06-4831-86AF-69DACCB9B616"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE7B68B6-903C-4AF4-99CB-53BB9716B68B_stringValue",
+      "value": "   "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1DCF9D3C-924F-4A84-A7E3-B52536FC8DC2",
+  "verticalSpacing": 0
+}

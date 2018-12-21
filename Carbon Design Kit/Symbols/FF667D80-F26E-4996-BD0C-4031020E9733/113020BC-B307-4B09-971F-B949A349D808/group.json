@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "113020BC-B307-4B09-971F-B949A349D808",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 572,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "63DFEC7E-8FB8-4605-9844-382F420AAA4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75792469-09E3-4DAF-AC94-6EF1BA7C5435"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02951506-C6CF-4126-9F1A-862AB212C2D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14D80335-EC89-46A9-9BA1-EA1773C0C5DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE9BBFB6-8A67-4ED4-8419-4A510F73BEAE"
+    }
+  ],
+  "name": "Grouped Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

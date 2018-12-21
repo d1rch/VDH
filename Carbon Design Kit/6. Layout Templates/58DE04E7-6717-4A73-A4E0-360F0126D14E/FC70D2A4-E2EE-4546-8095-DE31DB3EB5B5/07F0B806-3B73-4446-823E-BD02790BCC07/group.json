@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07F0B806-3B73-4446-823E-BD02790BCC07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43B0FD5B-779A-417C-9BFC-7753CC720550",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDDC8425-75B3-4731-B229-5D219C9635C5",
+    "height": 47,
+    "width": 605,
+    "x": 0,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "548F2585-14C2-479C-B420-257BE7C4C34F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "241A1497-08C1-4309-90D5-C1BE19E2EE3D"
+    }
+  ],
+  "name": "Progress Indicator - First Step",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E28F1928-99F8-433B-B74D-903261D25278",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

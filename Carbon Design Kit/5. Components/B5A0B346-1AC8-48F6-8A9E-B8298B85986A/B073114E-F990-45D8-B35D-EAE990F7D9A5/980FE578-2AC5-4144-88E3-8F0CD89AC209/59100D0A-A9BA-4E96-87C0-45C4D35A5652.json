@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "59100D0A-A9BA-4E96-87C0-45C4D35A5652",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6D21ED2-033A-4261-B3BE-5FAFDA594E31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFF2E602-EA71-4C4F-BADD-E0817E466143",
+    "height": 32,
+    "width": 32,
+    "x": 1140,
+    "y": 150
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Pagination/Lazy Load/Back to Top/Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AAD2944-77C5-43E2-A812-C85EED192AB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29FD01ED-7225-495F-969F-7B41AD5D24F6",
+  "verticalSpacing": 0
+}

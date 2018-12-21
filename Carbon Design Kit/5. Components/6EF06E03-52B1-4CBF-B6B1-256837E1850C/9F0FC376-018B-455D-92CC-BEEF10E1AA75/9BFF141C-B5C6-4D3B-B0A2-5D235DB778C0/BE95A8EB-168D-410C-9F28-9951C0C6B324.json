@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE95A8EB-168D-410C-9F28-9951C0C6B324",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2A9DBFC-1951-4D2B-8A9E-EC1A2580DDBC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA07811E-901A-489F-8E8D-8A17E344A81D",
+    "height": 54,
+    "width": 100,
+    "x": 0,
+    "y": 367
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Toggle/Label/Enabled - On",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76427EA8-86E8-4CAF-9C92-A9DD4EF0D4DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A37FC23A-EFCF-4064-82BE-D21D196B3821",
+  "verticalSpacing": 0
+}

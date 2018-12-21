@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6989760-2A93-4036-9393-00E1E1712465",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "898877B9-61B4-4830-9F49-7A92E00E3437",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A2973D1-4B6A-4E9C-B654-4A0AFDF26284",
+    "height": 296,
+    "width": 280,
+    "x": 0,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Date Picker/Single Day/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F79B46A-167C-44CE-AE7E-93B3AAB2EEB4_symbolID",
+      "value": "F18E49D4-C1EC-4726-8DBA-05B33750643C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45EF2293-4F46-4275-8931-84F5F20766BB",
+      "overrideName": "A99E8569-AD9A-4C97-A247-CBAD1BE1E5CF/FCA1BEA5-B8EA-4916-AB13-6EB32075ED22_stringValue",
+      "value": "Date Picker label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07CDABE1-59F9-474A-9209-04B1EAF2BFB6",
+      "overrideName": "A99E8569-AD9A-4C97-A247-CBAD1BE1E5CF/42DBC4E6-5BB5-4A27-BDBA-1E8879D5F0BD_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EB3D593-5C37-403A-9565-D5BAD5AB64FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "885D305E-EC9B-47B1-91B5-A2A51A7B85E3",
+  "verticalSpacing": 0
+}

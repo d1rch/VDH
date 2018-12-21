@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7EC1290-8B3F-41AC-8C1D-9744527F095E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C45570C7-9CD5-4A50-8EA4-4F92A0725627",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8620125B-6108-434C-B8A0-7261729ACD06",
+    "height": 13,
+    "width": 12,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FE36CA56-F149-4723-9D3C-25B6FE78487F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFBF3807-87BB-48AB-9FED-897F58A46047"
+    },
+    {
+      "class": "shapePath",
+      "id": "A507201E-4B40-4D0D-816E-4D45BD7B991F"
+    }
+  ],
+  "name": "Trashcan",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4B3F24E-9374-4432-A9A8-7498F9672E9A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

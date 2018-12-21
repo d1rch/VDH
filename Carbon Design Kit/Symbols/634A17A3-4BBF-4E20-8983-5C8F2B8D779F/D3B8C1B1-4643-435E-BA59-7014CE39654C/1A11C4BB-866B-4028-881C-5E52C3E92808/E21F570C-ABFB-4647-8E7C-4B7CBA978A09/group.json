@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E21F570C-ABFB-4647-8E7C-4B7CBA978A09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31AB6370-DEDC-467C-9F89-7BB8D6218598",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F55FE94-AFC8-437D-9955-0B6CA0445586",
+    "height": 17,
+    "width": 11,
+    "x": 166,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D43D5AE3-C426-494A-A20E-F43578FCAEE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F1700F6-A7CA-4A2F-A2F5-3CC8AFB6AA19"
+    }
+  ],
+  "name": "Carets",
+  "nameIsFixed": true,
+  "resizingConstraint": 14,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9BE67AA-7164-4AB8-A5AF-BAB7DB45C8E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

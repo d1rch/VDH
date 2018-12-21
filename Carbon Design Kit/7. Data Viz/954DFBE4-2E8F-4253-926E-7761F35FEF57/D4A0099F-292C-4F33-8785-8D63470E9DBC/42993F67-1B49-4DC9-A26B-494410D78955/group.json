@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42993F67-1B49-4DC9-A26B-494410D78955",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 221,
+    "width": 300,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F2E79A94-A94D-44C8-AD3B-0FFD8B3CC7FB"
+    },
+    {
+      "class": "group",
+      "id": "639B9297-9728-4E57-970B-9EF435740349"
+    },
+    {
+      "class": "group",
+      "id": "A2B51FDA-9BCF-4818-BBF3-BF78A7F2C3DD"
+    },
+    {
+      "class": "text",
+      "id": "00028778-5EC2-44B8-805B-EBD103324516"
+    }
+  ],
+  "name": "Gauge + key",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

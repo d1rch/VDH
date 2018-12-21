@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "31AA7506-CE2E-42C5-BD3D-B8CA0E1D8579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BD54F2B-7C6B-429D-8A4C-EC1A2A2247A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D4CA5EC-2F06-46BF-9862-22020A8644CA",
+    "height": 296,
+    "width": 283,
+    "x": 1,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Date Picker/Range Date Picker/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "486390F0-EAC4-404A-AECE-24E623E0474B",
+      "overrideName": "8CABE39E-477C-4E22-8EA2-7C39DE9CE502/4ADEA282-2212-4F88-BCAA-FDD55235B97E_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B66DA072-8524-4E3D-B9FC-96AABEBCDD6B",
+      "overrideName": "B9410264-5E11-4F6E-A78F-DA190F6A5D50/C8E04725-36AA-4299-AAA8-8559AC8E5795_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02CFE43A-E457-46A1-87ED-4B549838BD37",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F41815C-5CA2-4AF6-8B87-D3B044F2A84F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "197DE658-DEF3-4247-AFAD-436A667100EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F29261C-B88E-4AE2-912D-8DCF5EBF8A34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B71A19E0-849D-446A-BCD3-2355DB6C5B75",
+    "height": 1620,
+    "width": 600,
+    "x": 50,
+    "y": 938
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "341FF848-BB08-49AF-8928-711DE61B6DE2"
+    },
+    {
+      "class": "text",
+      "id": "FE06796A-4B59-408C-8B18-320FD3A13FB2"
+    }
+  ],
+  "name": "Updates",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B526277-B059-43C0-9CF0-8342BF323387",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

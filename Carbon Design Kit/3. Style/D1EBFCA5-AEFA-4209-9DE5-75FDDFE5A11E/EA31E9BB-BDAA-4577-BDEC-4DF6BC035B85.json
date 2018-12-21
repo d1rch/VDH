@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA31E9BB-BDAA-4577-BDEC-4DF6BC035B85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD07A069-3DA1-4574-AD18-DBFC232A38FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FEB28DD-FE4A-443D-8E05-DE3ACA4D9208",
+    "height": 14,
+    "width": 16,
+    "x": 575,
+    "y": 358
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/favorite--solid/$ui-05",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "972623A0-ADFF-4B58-A6C6-A357950B74B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9745DAAD-36BB-4C01-82B1-2887DB4579F7",
+  "verticalSpacing": 0
+}

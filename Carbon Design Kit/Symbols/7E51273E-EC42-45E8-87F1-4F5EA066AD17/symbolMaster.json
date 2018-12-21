@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5CBAFB13-C9ED-4D38-A0CF-01195576EA24",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 43,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E51273E-EC42-45E8-87F1-4F5EA066AD17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C46A2E0C-581A-467F-A8EB-1124D5340C4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CFC4E16-F5CD-4A77-8E7C-4EFD300C8683",
+    "height": 14,
+    "width": 16,
+    "x": 116,
+    "y": 24001
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E02A78E-9AF2-41C7-9A00-33FCEE80E57C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FE558139-2202-4037-8C2A-ECE9E26EDAD9"
+    }
+  ],
+  "name": "UI Icon/favorite--outline/$hover-primary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1079C6A8-33CF-449F-B5CC-05A585C4679C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0CB5E60A-7DCD-469E-A04E-E9A750E664B5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "31DAD690-B823-4DBD-A692-255D4A0D2873",
+    "guides": [
+    ]
+  }
+}

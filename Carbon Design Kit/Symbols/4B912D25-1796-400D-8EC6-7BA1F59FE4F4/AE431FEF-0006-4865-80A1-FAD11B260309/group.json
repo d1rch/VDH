@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE431FEF-0006-4865-80A1-FAD11B260309",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175,
+    "width": 418,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7ECC793-98B0-4C03-8562-B0DE0331C65B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "326CD5F5-878D-4672-8374-3907A520CA62"
+    },
+    {
+      "class": "bitmap",
+      "id": "38AEB1CF-7294-447C-A182-AB1007970209"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AD3F7C1-3341-4CDC-8680-5D21095790F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "311BDBC1-3C9C-4C73-B6F8-A5A988180CA0"
+    }
+  ],
+  "name": "Text Area - Enabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "921D7414-A4F5-41D1-B8DD-2A10CD6364D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71D43612-93C8-487D-859B-CF08104992CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCFA9813-42ED-4E5F-958E-25A6EB51108B",
+    "height": 209,
+    "width": 217.3883364409968,
+    "x": 120,
+    "y": 490
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Overflow Menu/Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F77EC743-A8C2-48A6-8DF5-D13947CFCB78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E62F868-0AFE-4F20-969B-1448B5BE44D9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1232DCAF-103E-4BD3-825F-8C776B9619B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 252,
+    "width": 539,
+    "x": 0,
+    "y": 276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EAD82257-FADF-44B0-9954-8F65D0925B84"
+    },
+    {
+      "class": "group",
+      "id": "390123B7-245A-4C35-B12A-6421BEC22C13"
+    },
+    {
+      "class": "group",
+      "id": "FD99CD95-6318-433E-9074-84BE63B001E5"
+    },
+    {
+      "class": "group",
+      "id": "36657908-213F-4CC2-A74A-D672E111F305"
+    },
+    {
+      "class": "text",
+      "id": "DECCE83A-05F3-4ACF-9B53-39FCD9B2AE83"
+    }
+  ],
+  "name": "Bar graph - 1 data set",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

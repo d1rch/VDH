@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4ED4882-2895-45B8-85F3-1F48E8BE7E21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D206A45-D390-4DDE-B9F5-B94CB1A313E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "376926C4-D511-4FE4-BC11-C1BB0C558DC5",
+    "height": 41,
+    "width": 1314,
+    "x": 0,
+    "y": 373
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Search/Large/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "96368D7F-3A00-4DA7-BD4C-7FC17D067F88/F92FCF33-D601-4F46-BBB5-B0AA3F670C24_symbolID",
+      "value": "48025A82-355A-4B4B-AB25-3DA2BE2665FB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C098BD09-32A1-4256-89E5-CBEEE1DAF755",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5344C710-3411-49E0-93E5-40572E6A25DB",
+  "verticalSpacing": 0
+}

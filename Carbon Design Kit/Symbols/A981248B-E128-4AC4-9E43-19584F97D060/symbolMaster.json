@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9B89B2AD-73A5-435B-B797-C2F1C214C297",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1751,
+  "clippingMaskMode": 0,
+  "do_objectID": "A981248B-E128-4AC4-9E43-19584F97D060",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B3A4FD0-6778-49F5-A4EC-B77EF754A4EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADFBB37C-783D-4621-9BC5-CB16B12B4AEA",
+    "height": 326,
+    "width": 1116,
+    "x": 17024,
+    "y": 5802
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "206D7040-EE02-4BE9-9C37-6CD1C9522E53",
+    "guides": [
+      358,
+      496,
+      609,
+      967,
+      764
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0752B1BE-0FE1-4DA0-80B9-A51097AE82AF"
+    },
+    {
+      "class": "group",
+      "id": "CECF2395-80EE-4985-92D4-71BC72D0B975"
+    },
+    {
+      "class": "group",
+      "id": "8306987E-C149-4E66-A6C5-75250A70B716"
+    },
+    {
+      "class": "group",
+      "id": "09A9644D-2AB6-45D5-9393-15BBE73982D6"
+    },
+    {
+      "class": "group",
+      "id": "C29C8032-6FA9-4101-B7D8-02B64A7E3670"
+    },
+    {
+      "class": "group",
+      "id": "49F9F730-F683-4B25-A6EA-41E2EEAA0ADA"
+    }
+  ],
+  "name": "Component/Data Table/Default/Modifiers/Zebra Striping",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFAFE93C-DFF2-4DD3-AE7E-87CC0D375352",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17AB7EF3-0F4F-4C84-9EB6-5CB48D8ACA23",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FD86F4B2-F748-46A6-8701-9CCD2BBDD064",
+    "guides": [
+      -19
+    ]
+  }
+}

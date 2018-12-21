@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48CD16F1-FB30-4361-8760-D7604686543F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B45D9E5-2992-441D-80B2-CAA0A0F53E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6D15E34-8AC8-4936-AA84-E4042BD179C3",
+    "height": 40,
+    "width": 133,
+    "x": 1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Danger/Primary/Enabled",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 19,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98754207-5C23-4DB1-9E09-EA2DA25E03BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C73E031C-91E6-4A3D-82C1-E7D8D8111F30",
+  "verticalSpacing": 0
+}

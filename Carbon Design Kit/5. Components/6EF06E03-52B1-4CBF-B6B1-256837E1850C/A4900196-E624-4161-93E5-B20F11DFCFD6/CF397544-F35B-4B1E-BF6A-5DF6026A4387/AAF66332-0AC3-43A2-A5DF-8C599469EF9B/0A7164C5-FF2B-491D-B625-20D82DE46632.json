@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A7164C5-FF2B-491D-B625-20D82DE46632",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BE3A3D1-E857-4BAF-B432-92CE7D7AE4EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "156DF91F-3DBF-4AD7-8ADE-29FE8C720670",
+    "height": 40,
+    "width": 119,
+    "x": 2,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Danger/Primary/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CB09504-318A-4A4B-89C3-1CAA721AA48A",
+      "overrideName": "D79E43CB-DE11-4116-83C4-2B87EFA22E02_stringValue",
+      "value": "Primary danger"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "657A7D95-A15D-4AD1-89A6-4663997ED14F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BF0143A-1086-44BD-B73B-9F130C2181D3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0CDE32E-D46E-4068-83CF-D56A4C4A3126",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1116,
+    "x": 0,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2DC85087-7C0D-4F43-81AB-0C933D16676E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A56CD14E-0844-46BA-B008-593F8E2003C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A247C7DA-0CF5-4BEA-8258-07F7626D74B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DCEA3EA-BD59-4F8C-84A4-D23EB5BB39F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4247E9E1-FBE5-46AA-BC4F-E1DDAB572E79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "561328B6-B6E7-4116-BC22-DDE5873EA35A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40F4AFC1-D97A-40CB-AB11-497B6AD9578C"
+    },
+    {
+      "class": "text",
+      "id": "8B978083-7066-4744-B625-87203803F97D"
+    }
+  ],
+  "name": "Expanding tile 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

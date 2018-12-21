@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87050572-604B-47B9-B295-195A13C2DA52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5ED54B9-1CD1-424A-81F7-4E94B1EA22C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AC15ECB-4BEB-4E6E-BD4F-E8B1D6A14897",
+    "height": 47,
+    "width": 163,
+    "x": 164.6568875123348,
+    "y": 152.165300339715
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/Pieces/Future",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF52A47C-967A-4298-B7A5-8EA55D6C4EFC",
+      "overrideName": "379745A0-DECC-43A7-A982-135A0CFFF0D9_stringValue",
+      "value": "Third Step"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90849238-8270-4D19-A5B2-51E26CD5E49E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C01B0853-CE16-4BB2-BA1E-26C992D3826F",
+  "verticalSpacing": 0
+}

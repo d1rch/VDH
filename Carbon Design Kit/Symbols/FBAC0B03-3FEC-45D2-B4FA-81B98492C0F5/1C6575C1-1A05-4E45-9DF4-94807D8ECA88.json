@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C6575C1-1A05-4E45-9DF4-94807D8ECA88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7F0BE78-3412-406A-BEC3-980A3EC7986E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB7E70BF-3F29-42B6-B18F-F51B74295BBB",
+    "height": 66,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Filter Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4D5456B-6B61-49BE-A426-2B37D1AA744A",
+      "overrideName": "C78B92DF-664D-4997-B1C9-B5A2E4A99A1A/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Filter Dropdown label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "372C969A-59A1-46EA-8F0B-6EE55427D6E5",
+      "overrideName": "AC70A5A5-73B6-43DD-A4DF-7FF7EC85D173/0455E2E5-6346-4584-B635-829D8F4455A7_symbolID",
+      "value": "652B04BB-9DE8-47F5-B924-80C06CDC05FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50C905CA-FAFD-4837-8E73-A6ABB920CF05",
+      "overrideName": "AC70A5A5-73B6-43DD-A4DF-7FF7EC85D173/0455E2E5-6346-4584-B635-829D8F4455A7/1B4157A7-3607-48A0-AE2F-4D6C6D9D5B26_stringValue",
+      "value": "Item 4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "511E5256-3BD6-4D22-9C94-869C42FE49CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6554DEA3-E7F1-4CFF-A88A-94E2296E720D",
+  "verticalSpacing": 0
+}

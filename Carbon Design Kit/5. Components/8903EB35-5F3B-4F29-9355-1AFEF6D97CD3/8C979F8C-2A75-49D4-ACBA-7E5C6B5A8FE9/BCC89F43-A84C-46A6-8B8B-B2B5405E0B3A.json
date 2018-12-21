@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCC89F43-A84C-46A6-8B8B-B2B5405E0B3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD9578E8-E268-47AD-9F6D-F8C5459F5F25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83891219-BEB2-460C-84B4-8AACFBCED2BA",
+    "height": 289,
+    "width": 500,
+    "x": 1539,
+    "y": 523
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Modal/Transactional/No label, danger",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE29076F-8875-4A0E-82CA-D8D455327648",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F567F5F-E6EC-457D-A1C0-F54511A2EAAF",
+  "verticalSpacing": 0
+}

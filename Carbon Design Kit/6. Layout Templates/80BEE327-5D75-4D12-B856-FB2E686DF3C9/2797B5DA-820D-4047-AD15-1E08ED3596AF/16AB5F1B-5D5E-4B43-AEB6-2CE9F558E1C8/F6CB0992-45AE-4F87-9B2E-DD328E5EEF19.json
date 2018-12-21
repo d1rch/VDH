@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6CB0992-45AE-4F87-9B2E-DD328E5EEF19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CE2D634-5B4E-487F-A7C2-5972154DC5BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D053A2D0-7FDA-48EC-AA02-914E34C52957",
+    "height": 32,
+    "width": 69,
+    "x": 22.13592233009709,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Secondary/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BFAB1F8-B5C9-4DBC-A82F-6A896C1AF932",
+      "overrideName": "C1FFF628-A339-4DD6-9081-AE8395D06951_stringValue",
+      "value": "Sign up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1209E7C6-A102-484A-A08E-33C70C662C92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD385D00-668E-4DC9-86B1-8562DE6C94E6",
+  "verticalSpacing": 0
+}

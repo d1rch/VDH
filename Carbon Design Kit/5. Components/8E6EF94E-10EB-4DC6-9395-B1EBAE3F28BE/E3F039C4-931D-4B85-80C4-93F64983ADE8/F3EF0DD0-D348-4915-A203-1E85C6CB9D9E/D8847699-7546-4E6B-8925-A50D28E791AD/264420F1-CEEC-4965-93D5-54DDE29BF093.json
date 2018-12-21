@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "264420F1-CEEC-4965-93D5-54DDE29BF093",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F518F9BD-0C69-4E9A-9B5E-A2A535A1688C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E0BE4B9-9AC5-47D0-BAB7-5D51FFB29290",
+    "height": 160,
+    "width": 300,
+    "x": 798,
+    "y": 304
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Filterable Dropdown/States/OnClick",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E796DF56-7C6B-4A48-9D1A-8F3B47CFF7A4",
+      "overrideName": "74B65ADA-92EA-4537-B5B4-EACA43E43205/1DC4E407-56DA-4538-822B-58BB59A4285F_stringValue",
+      "value": "Ite"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF3251F6-A3AD-44F5-8513-F118EDB18225",
+      "overrideName": "74B65ADA-92EA-4537-B5B4-EACA43E43205/4D0D6A71-9F4A-488B-993D-0833AE3914CD_symbolID",
+      "value": "4338930D-A842-4B3B-87FA-A155E02F698E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C8ACEC9-0EBB-4BC7-9F6E-09603D55541A",
+      "overrideName": "9A35797B-7015-4294-AD50-2995F764EB83/A11C6219-D16D-4CDC-A5A4-70CAAB0E4E3C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96C695D1-E50A-4B45-BF9E-3D3D62487061",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FC3E2DC-6DAD-4D49-A2B2-A28FE52A0F09",
+  "verticalSpacing": 0
+}

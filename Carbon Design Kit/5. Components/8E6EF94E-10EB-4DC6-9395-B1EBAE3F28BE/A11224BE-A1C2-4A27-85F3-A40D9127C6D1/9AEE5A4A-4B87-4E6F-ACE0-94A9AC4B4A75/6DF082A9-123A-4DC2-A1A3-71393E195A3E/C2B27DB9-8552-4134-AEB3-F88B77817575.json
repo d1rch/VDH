@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2B27DB9-8552-4134-AEB3-F88B77817575",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59E07E48-6E04-4ABB-A33D-2E9DB1D606F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1424B933-A652-4594-9AC7-7E535831E46C",
+    "height": 66,
+    "width": 300,
+    "x": 16,
+    "y": 490
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Select/Large/Enabled",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D555AA80-3113-43F4-9F15-F1826E90B8C4",
+      "overrideName": "B6281183-DA9C-41DC-9264-69F1A36798F4/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Select Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "181CE1A8-F3AC-4870-BFA7-BC95A40105C2",
+      "overrideName": "A460F927-982D-4381-9F70-FE0256A4FB20_symbolID",
+      "value": "652B04BB-9DE8-47F5-B924-80C06CDC05FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F8716D5-C6EA-4E2D-A2A1-4890E9E68E10",
+      "overrideName": "BAD15775-4917-4916-BBCF-AB68D1F1AD05_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "088BF64F-A56B-48F9-8075-3A32975D7833",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6D70EFC-BA56-4E3B-9AA2-7C7BCAC55402",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEE6DF45-1F18-41E8-B699-FC9E765DCB6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B607D7BC-EC01-49CC-AC55-B86E236D099D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C9C2668-F829-4BCB-A361-384A44B3454F",
+    "height": 32,
+    "width": 118,
+    "x": 219,
+    "y": 226
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Inline/Multi-select/States/Closed, focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05FC8EA5-64F3-4D73-A1CA-76A0058F0654",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41DFA0FC-D6B5-4840-A166-C3796B821758",
+  "verticalSpacing": 0
+}

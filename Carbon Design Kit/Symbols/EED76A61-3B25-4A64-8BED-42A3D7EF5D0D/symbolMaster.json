@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "895863CF-0CBC-466A-AE7B-552EA80F20E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 377,
+  "clippingMaskMode": 0,
+  "do_objectID": "EED76A61-3B25-4A64-8BED-42A3D7EF5D0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C318A244-9FE6-4627-9A5F-D20C73E3FCC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B4B157C-39A2-4DF4-B691-53AC35F1FB36",
+    "height": 16,
+    "width": 16,
+    "x": 232,
+    "y": 17608
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E81C084A-2ED3-4BCF-ADCD-3C0E55E37CE5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ABB0C276-73FD-4C20-BE12-A3D125C80CD4"
+    }
+  ],
+  "name": "UI Icon/attachment/$ui-05",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "794E5403-08E9-45EE-9586-10924A39E1B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF62B68A-FD8E-40A1-A836-143F7CC8D3AE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "883FA1DE-951D-49C3-A172-3C08D05C39DA",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0752B1BE-0FE1-4DA0-80B9-A51097AE82AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C087BBA-8DCF-43C5-A523-144BE8BA3987",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DBE81A8-F530-4B8C-BB14-7D57159B2452",
+    "height": 326,
+    "width": 1116,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95BADC4E-2878-452B-9148-4D34D14FF1E1"
+    },
+    {
+      "class": "group",
+      "id": "196C90DC-310C-48D3-8FEC-965713FB719D"
+    },
+    {
+      "class": "text",
+      "id": "0A1B2B49-8847-4E9A-9AF3-D12C37D98E1E"
+    }
+  ],
+  "name": "Data Table - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2616C85-DAB6-490B-943E-075AD67C6F73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

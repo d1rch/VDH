@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1FB1EB8-B0DD-4BD3-8C1D-C8C68662A429",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE4E9AF4-C725-44CD-B62E-4191BA586CA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03ACF06D-36E1-47B1-9CDC-1CF85F7AD319",
+    "height": 40,
+    "width": 133,
+    "x": 1,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Danger/Primary/States/Hover",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C005730-A572-45C9-AA6F-68DAB2354E2E",
+      "overrideName": "E15443F2-A485-4E47-BB9E-8C340960120E_stringValue",
+      "value": "Primary danger"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04C11883-7345-44C5-AD02-4849E5B2A964",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A57D4152-5F6A-4334-8730-79DCA5967B63",
+  "verticalSpacing": 0
+}

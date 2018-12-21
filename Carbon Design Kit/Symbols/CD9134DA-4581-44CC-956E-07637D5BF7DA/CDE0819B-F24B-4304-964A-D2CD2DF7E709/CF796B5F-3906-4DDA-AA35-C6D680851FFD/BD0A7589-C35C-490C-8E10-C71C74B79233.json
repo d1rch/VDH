@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD0A7589-C35C-490C-8E10-C71C74B79233",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "215063E3-F750-4C82-9E8F-BF0CD233FD99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A31AFBD5-FB2E-4111-A5CB-48E230464891",
+    "height": 18,
+    "width": 242,
+    "x": 16,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Pieces/Text/Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87EB087D-E56B-42F7-8C85-8DCA77D87E71",
+      "overrideName": "6B4E5B40-E49E-44C3-85C5-816353EB88E3_stringValue",
+      "value": "Choose an option"
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E292E8C-CED9-439A-A37C-9F7A2ACF5799",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "77F8F44B-9455-4FC9-9920-0E275C583875",
+  "verticalSpacing": 0
+}

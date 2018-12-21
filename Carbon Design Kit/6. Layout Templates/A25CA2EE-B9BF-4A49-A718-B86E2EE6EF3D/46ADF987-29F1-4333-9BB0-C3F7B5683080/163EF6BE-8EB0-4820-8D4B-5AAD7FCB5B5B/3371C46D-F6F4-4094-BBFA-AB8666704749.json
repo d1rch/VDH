@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3371C46D-F6F4-4094-BBFA-AB8666704749",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC7B08E7-D005-4FBF-B6A7-C10BF11B8A54",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B025544F-4641-4093-AD96-B86C83167C39",
+    "height": 47,
+    "width": 163,
+    "x": 442,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/Pieces/Future",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C17A600-6A0E-42E7-8D4C-26A301DC8F1F",
+      "overrideName": "379745A0-DECC-43A7-A982-135A0CFFF0D9_stringValue",
+      "value": "Review"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "372E6FC0-C243-49B4-8089-7B60AAB09AD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C01B0853-CE16-4BB2-BA1E-26C992D3826F",
+  "verticalSpacing": 0
+}

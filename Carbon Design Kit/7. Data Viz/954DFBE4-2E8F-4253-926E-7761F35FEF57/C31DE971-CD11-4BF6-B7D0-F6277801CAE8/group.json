@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C31DE971-CD11-4BF6-B7D0-F6277801CAE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 243,
+    "width": 539,
+    "x": 199,
+    "y": 376
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62A84712-CDBE-4C4A-B748-7CFF276EEE36"
+    },
+    {
+      "class": "group",
+      "id": "166B3286-E4C5-423D-AE1C-89937F02DD83"
+    },
+    {
+      "class": "group",
+      "id": "C279BF3B-03C1-4D17-B10E-70FBF176D7F8"
+    },
+    {
+      "class": "text",
+      "id": "EE4BD253-DE91-443A-82CB-3D7589BD6ADE"
+    }
+  ],
+  "name": "Base Graph",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

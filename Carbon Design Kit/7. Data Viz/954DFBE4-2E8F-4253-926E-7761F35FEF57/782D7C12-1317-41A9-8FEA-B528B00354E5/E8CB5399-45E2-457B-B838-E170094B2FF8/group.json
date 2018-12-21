@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8CB5399-45E2-457B-B838-E170094B2FF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 193,
+    "width": 193,
+    "x": 0,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "44E69932-F91A-4CD2-9CDF-4AC32B482765"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA467BC2-6BF0-4EC9-804C-A9F5138EC15E"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD20BB48-BF05-4DFD-B346-705385D4F7B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF31619D-7B85-4D3C-8001-D3CD2CF4F5B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "F98C94C2-C039-49B1-BFCD-936AE1A857AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "B87295E7-EFA7-4907-B6DA-AE0C62FA86AC"
+    }
+  ],
+  "name": "Pie chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

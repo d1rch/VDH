@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D4E3E6B2-9F34-4B52-AFEC-781875B70DD3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 71,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD7F2A87-79FB-4CBF-9E79-C09C1D11A052",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA90B59F-DEEE-4345-9B4C-5CC3C82BBB03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81A597FE-5A9B-4ACF-B030-C2F9BF8E73FD",
+    "height": 16,
+    "width": 16,
+    "x": 232,
+    "y": 17824
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDCC1B96-490B-45A1-90EA-36C1F3C73E63",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "78406E8F-6C36-409B-BCA7-C0B5283F557B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B94A3D5F-D811-4131-A6F3-0E8EC0C890D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "17B591D8-37D7-4863-8576-4F33BAFE14AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F5C96EF-F491-4E69-AE7F-E4BC566C8213"
+    },
+    {
+      "class": "shapePath",
+      "id": "65DEBC1D-F167-4791-8A55-318E34AA1FE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE749D2D-4F55-444E-B000-3C9DF3CE8E31"
+    },
+    {
+      "class": "shapePath",
+      "id": "34FA7206-A1EF-4541-BBF1-16AEC74266A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD09370F-3332-4291-841A-BB4F38949560"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B093313-A6EA-48C5-B49E-C725F8F0AA5D"
+    }
+  ],
+  "name": "UI Icon/awake/$ui-05",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE296AF0-AAC0-4735-B7EA-73CAC365FF89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49BAF252-837A-411B-8E5D-031EE890EABF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1E3CCA5-29BD-4589-A167-6EB39C59A37D",
+    "guides": [
+    ]
+  }
+}

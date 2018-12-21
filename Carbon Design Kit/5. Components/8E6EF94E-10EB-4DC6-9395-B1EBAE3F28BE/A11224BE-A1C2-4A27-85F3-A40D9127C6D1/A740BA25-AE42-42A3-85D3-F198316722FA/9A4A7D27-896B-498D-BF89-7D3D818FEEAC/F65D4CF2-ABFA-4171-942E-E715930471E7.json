@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F65D4CF2-ABFA-4171-942E-E715930471E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD2CB060-E518-4755-BFAC-712BD4700F7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E359065-8F63-426B-AC14-C9B6D39534E4",
+    "height": 54,
+    "width": 101,
+    "x": 0,
+    "y": 715
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Toggle/Label/Enabled - off",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB99EF32-64C3-4BA6-B4CD-2CF9259A7BEE/0B6D09C4-6ECC-45F8-B0D1-8272589E8646_symbolID",
+      "value": "0FC47B38-A3FD-4E73-809D-4AA1753FC579"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EDA3F46E-AD50-4A9F-A589-1706F331A89A_stringValue",
+      "value": "Toggle Off"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1DC70F8-9C5C-4860-B21E-0BE7CAB0105C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B06B8BD9-3294-4AB7-9FCC-2B7F998C750E",
+  "verticalSpacing": 0
+}

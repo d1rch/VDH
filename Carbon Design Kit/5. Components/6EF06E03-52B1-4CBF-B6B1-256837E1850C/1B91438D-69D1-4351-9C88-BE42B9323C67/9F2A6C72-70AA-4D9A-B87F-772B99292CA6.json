@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F2A6C72-70AA-4D9A-B87F-772B99292CA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DCFD29D-6349-4F48-A824-690826362E3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86289568-CF31-4D6D-ADB9-1FA716DB9C6A",
+    "height": 89,
+    "width": 143,
+    "x": 93,
+    "y": 399
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Radio-Buttons/Vertical Stacked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3019E8E-C853-4243-B0F4-8B430066351A/6BA46D85-B76F-48A1-A593-932A1CCAF9B6_symbolID",
+      "value": "125361E2-C357-4840-AC0B-1D9D3C1F4C76"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BF54B22-2C0A-4105-AC1F-B77C68B7FA7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8A8C6F2C-42B2-46DD-B941-DD1EECEA4BF7",
+  "verticalSpacing": 0
+}

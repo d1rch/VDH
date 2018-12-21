@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F6D25FF-3BAB-454E-9670-379F97AE495E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 281,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5A4BE8BA-D84B-4E23-8128-9D22559D1893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9475D5D1-1A31-4B3A-9F3B-1187E08F1BC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CABE39E-477C-4E22-8EA2-7C39DE9CE502"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9410264-5E11-4F6E-A78F-DA190F6A5D50"
+    }
+  ],
+  "name": "Range Date Picker -  Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

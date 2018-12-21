@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19EFFA11-98E3-4D1D-8E3D-717A9DA89D00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1240,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A95D5ABE-6AE3-4AEF-861D-4E9E0F64AC1F"
+    },
+    {
+      "class": "group",
+      "id": "D3DA7B7D-8148-48BA-AADA-E40E43EBD74B"
+    },
+    {
+      "class": "group",
+      "id": "FF788988-9508-4CC2-B03B-3B354D5DDC21"
+    },
+    {
+      "class": "text",
+      "id": "6DADDBBE-008B-4BD3-915D-A1D3B1564BF0"
+    },
+    {
+      "class": "group",
+      "id": "42235247-3FD4-4EFA-8718-2C64BA9EDD8D"
+    }
+  ],
+  "name": "DPH/left nav/scrolling",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "2482AB64-8D6A-4E4D-A293-B1C75065D52B",
+        "version": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1E21F8D-407C-4FE9-8CED-D65EB4F72052",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEFB91C5-FDB5-44C3-9C85-54C96407695E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2D24564-1AD8-4007-8E2F-C6B52D3FBAF1",
+    "height": 18,
+    "width": 113,
+    "x": 184,
+    "y": 0.8746736185407826
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Breadcrumb/Pieces/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15A94FE6-FC49-4E3E-B5A3-C60029169962_stringValue",
+      "value": "Breadcrumb 4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39DC01B3-824F-4C32-8A54-1735E0FAF407",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "291CB7C2-F7A1-4B21-8726-8036EAFEF8D8",
+  "verticalSpacing": 0
+}

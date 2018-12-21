@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "319EC540-27CD-4B3F-B9A5-13777DF3BDE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBEEEEA2-CABF-4FF9-9679-6AC67387FD6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "944C1411-FD7E-4B25-8F39-291E006FE707",
+    "height": 161,
+    "width": 300,
+    "x": 0,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BF378C5A-6C1F-4AFF-8A32-AAE3B4A33768"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E545818A-C6E1-4E2A-8C77-B1B970ACF146"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C61B897E-7158-4F49-AB16-8295EE25FFF6"
+    }
+  ],
+  "name": "Filterable Dropdown - Open, focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79C5FD77-A13B-46C5-B687-4B17674637DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

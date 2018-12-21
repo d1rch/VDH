@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC334C6B-8BB1-4EEE-9DAC-5A42FC2BE1B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "947D7EE7-2D2A-4EEE-AEB8-A85DE73DDBE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24EA9A36-08E9-446E-A25F-6F5EEBF11DB5",
+    "height": 88,
+    "width": 153,
+    "x": 87,
+    "y": 127
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Checkbox/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "11E3180F-F105-4BD1-9912-0EB9B031DFEC_symbolID",
+      "value": "98FA4A27-659A-4C8A-817D-5C8565A36BD6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5EB86BE4-8771-45B9-B8E9-E8CBE80516EA/7C4B49F9-8B59-4573-9722-4F2D41CDDF31/C3A5CD23-C2A3-43E7-AFB9-00B16DB793AE_symbolID",
+      "value": "DEEF3270-CE71-4FAB-8D04-6F55464913D5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5EB86BE4-8771-45B9-B8E9-E8CBE80516EA/7C4B49F9-8B59-4573-9722-4F2D41CDDF31/979644DD-093A-4D78-ACDE-125CF4ED1DD9_symbolID",
+      "value": "4E2210AB-6F06-4831-86AF-69DACCB9B616"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F61FD8D-158E-4136-822A-A9443E8ADB5B",
+      "overrideName": "5EB86BE4-8771-45B9-B8E9-E8CBE80516EA/654FB527-D6E8-406F-A7AB-7EBB4C94C1FF_stringValue",
+      "value": "Checkbox label 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3980FF70-8048-48B4-8C76-C1E47C8E0810",
+      "overrideName": "17AABD30-53C7-4839-8EED-D9A7B1DD85C3_stringValue",
+      "value": "Checkbox label 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB668ADF-B2EC-476E-8ED1-5D95CBDA2B46",
+      "overrideName": "8ABF6D69-BDD5-4437-97DD-2C95F6B2A07F/654FB527-D6E8-406F-A7AB-7EBB4C94C1FF_stringValue",
+      "value": "Checkbox label 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "987D2FCD-2BC0-4A17-A689-7CE832730439",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DD3273B-6C6D-41C7-A534-5BAB3E62C51A",
+  "verticalSpacing": 0
+}

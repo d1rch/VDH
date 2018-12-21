@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC0E4E8F-E05F-4534-93F1-B62B6975EEF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51F75EF0-7D19-4C7B-B082-0D5A5159BE82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFAC8E83-5A19-41C9-8E67-DB5B892D061B",
+    "height": 120,
+    "width": 294,
+    "x": 0,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Multi-select Dropdown/States/Background/Open",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FC0FC7A-349B-41D2-96AB-9E74F4EB28D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B90DB952-6C08-4087-97E2-8353618E5185",
+  "verticalSpacing": 0
+}

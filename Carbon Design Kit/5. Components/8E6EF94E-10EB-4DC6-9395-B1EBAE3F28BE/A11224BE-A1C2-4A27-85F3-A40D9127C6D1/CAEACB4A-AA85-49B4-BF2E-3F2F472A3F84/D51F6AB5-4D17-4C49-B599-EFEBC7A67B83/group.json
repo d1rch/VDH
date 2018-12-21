@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D51F6AB5-4D17-4C49-B599-EFEBC7A67B83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D88B4FB5-2643-434C-82BB-57686CDD38AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B8385B2-81D2-4352-85EA-96A5EF2EA82D",
+    "height": 757,
+    "width": 280,
+    "x": 849,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D5EFC54E-A83F-482A-A79C-C7C3B62DCBBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6989760-2A93-4036-9393-00E1E1712465"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DB63ACC-B9F7-4F36-8416-64FA62FEE3C9"
+    }
+  ],
+  "name": "Single day",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "851CDBFA-6F2F-4F1C-81DA-C25BB7720947",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8FC9F9DF-6216-484B-A807-5427757347D5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 41,
+  "clippingMaskMode": 0,
+  "do_objectID": "602DACC1-5EDC-44DB-A882-1593CA814809",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58F8A430-0BA8-4BA7-A82A-4862F1E53CCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9788E68-4B85-46D2-A63A-6A249038E58E",
+    "height": 16,
+    "width": 14,
+    "x": 228,
+    "y": 18256
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D536AED3-AC99-4B8E-874C-33C4A8D9A9B4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89F31E30-F14F-4418-BD35-043020A9CB68"
+    }
+  ],
+  "name": "UI Icon/calendar/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EE8A369-7890-4131-9179-862EA55F0296",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A4C4F0-6809-400E-A931-66BC93442C5A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2CBA57D7-DDA3-4FB9-9857-2517FE8A9D11",
+    "guides": [
+    ]
+  }
+}

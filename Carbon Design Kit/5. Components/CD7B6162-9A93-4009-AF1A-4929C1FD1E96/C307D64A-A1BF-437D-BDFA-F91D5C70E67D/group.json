@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C307D64A-A1BF-437D-BDFA-F91D5C70E67D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 936,
+    "width": 1116,
+    "x": 3585,
+    "y": 632
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E64F1C98-ED9C-421B-99C4-0F56DE6A6BEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39C1F571-3A74-4C3D-8DEC-353B917819C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED0836F3-A55B-4BC8-9623-95A17D700142"
+    },
+    {
+      "class": "group",
+      "id": "3DD1AE0C-9DC9-4F55-B833-04A8C5393E24"
+    }
+  ],
+  "name": "Toolbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

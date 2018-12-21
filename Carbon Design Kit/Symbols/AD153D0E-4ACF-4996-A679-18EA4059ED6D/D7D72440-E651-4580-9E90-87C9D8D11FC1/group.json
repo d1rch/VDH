@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7D72440-E651-4580-9E90-87C9D8D11FC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD5EE322-11A8-445A-A0D8-6EEE01295160",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B4B1F26-A476-47EA-BA81-C2D5CDC70A49",
+    "height": 785,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B56FF7C9-570D-49EA-A085-6BDDEBAF56E1"
+    },
+    {
+      "class": "group",
+      "id": "BD8C2D4C-E980-4A9D-8810-CF976D009E03"
+    }
+  ],
+  "name": "ILN /Parent select",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22B89DC1-1990-439D-BA10-897C3CA3523E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

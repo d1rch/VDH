@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FBA1C66-4C8C-4876-86DF-43320D9BB6F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F53F0D5-C5A5-48FD-BF15-075B0F42D049",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "273507A2-F89F-4ACA-98A3-5AF697664125",
+    "height": 14,
+    "width": 162,
+    "x": 20.7086229518502,
+    "y": 108
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Navigation/Pieces/Text/Parent, dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71514BEA-68AA-40CC-A051-8866E1E08002",
+      "overrideName": "788B318C-B68F-4475-9936-0C577278C77D/6973C2BC-1947-486D-95B2-F8CAAC7E0B69_stringValue",
+      "value": "Shops"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF4C60C6-1088-4069-80E6-7B608D720CAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9D652F9-A3E1-429E-ABB6-7305A18A42FF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA1AAF00-A291-4999-BD0E-135434454477",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1026,
+    "width": 577,
+    "x": 0,
+    "y": 1845
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0CD62DE5-7C92-4EFB-9CE3-30611E3EFD73"
+    },
+    {
+      "class": "group",
+      "id": "53244696-FEFD-47B3-B43E-1DF5238DADDA"
+    },
+    {
+      "class": "group",
+      "id": "6C4DC8AF-C854-48A6-843A-67B73EB08473"
+    },
+    {
+      "class": "shapePath",
+      "id": "39312F34-35F8-4531-8B16-B7456BC71E7E"
+    },
+    {
+      "class": "text",
+      "id": "07519772-80D6-4A6C-BCF9-33EC24179F09"
+    }
+  ],
+  "name": "Other News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

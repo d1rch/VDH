@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "94F93FFC-6196-4871-AFA2-B7E2B615EDA9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 41,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D104BE3-D12A-4AAA-8D78-879F330699C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "475C0709-240D-4EDF-AB0E-5433B73CE6D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF3C39BE-FBF6-42FC-8176-4303E4A23F32",
+    "height": 16,
+    "width": 14,
+    "x": 114,
+    "y": 18256
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8CEA6D23-1C19-449D-93BC-6F335BF0B55F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D4395E8-DCBE-4D08-8B7C-50288002A442"
+    }
+  ],
+  "name": "UI Icon/calendar/$hover-primary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD5DA950-695B-4A23-B5FB-B334C74141C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B6F5D92D-B227-41FB-99A9-67A7AEADC3E4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3B7F3A6C-D3AF-431D-82A5-C645FECA5693",
+    "guides": [
+    ]
+  }
+}

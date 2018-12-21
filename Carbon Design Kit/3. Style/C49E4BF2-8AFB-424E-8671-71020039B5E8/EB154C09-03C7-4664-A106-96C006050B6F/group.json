@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB154C09-03C7-4664-A106-96C006050B6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1648,
+    "x": 620,
+    "y": 213
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "59D347C8-65FB-4F45-961B-0061C4C68C26"
+    },
+    {
+      "class": "text",
+      "id": "8C1FEB1A-F5C4-4670-BEFD-2D7E7E476285"
+    },
+    {
+      "class": "text",
+      "id": "251FAE92-62B7-470D-B0BF-0AFC925663B8"
+    },
+    {
+      "class": "text",
+      "id": "C113B965-67A4-4792-81AB-3E50E8DCE88D"
+    },
+    {
+      "class": "text",
+      "id": "E7644306-5337-4CD6-A2B3-E88654DE8DE6"
+    },
+    {
+      "class": "text",
+      "id": "14FB87E8-2D8D-45B3-8998-FA0A7014092B"
+    },
+    {
+      "class": "text",
+      "id": "1E6B5951-AF9B-41BB-A4B9-0F346656DA91"
+    },
+    {
+      "class": "text",
+      "id": "218355A3-171A-443B-95A0-31F1BBE3FCC1"
+    },
+    {
+      "class": "text",
+      "id": "EF511BF1-6769-49C1-B6E9-4A9F58826BDE"
+    },
+    {
+      "class": "text",
+      "id": "910F4C28-B2CA-4BAF-9BE3-660A81EBEC10"
+    },
+    {
+      "class": "text",
+      "id": "97059716-83C9-43BB-B0D4-173BF1F04CD3"
+    },
+    {
+      "class": "text",
+      "id": "E88143BD-F88F-4144-905A-64EB218D7AA7"
+    },
+    {
+      "class": "text",
+      "id": "06AFE0C4-EB54-4FCA-9FA1-752B99C12003"
+    },
+    {
+      "class": "text",
+      "id": "13236B02-6C08-4056-A79F-6A4FE833245B"
+    },
+    {
+      "class": "text",
+      "id": "05AAC330-6BBF-4026-8159-A7123AA58FEE"
+    }
+  ],
+  "name": "Type scale",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

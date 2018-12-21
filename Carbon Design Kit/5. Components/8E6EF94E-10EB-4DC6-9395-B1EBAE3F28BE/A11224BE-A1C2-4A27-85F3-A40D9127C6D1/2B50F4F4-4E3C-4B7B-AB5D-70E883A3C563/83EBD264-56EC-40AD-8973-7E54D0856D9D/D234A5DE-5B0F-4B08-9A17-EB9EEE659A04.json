@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D234A5DE-5B0F-4B08-9A17-EB9EEE659A04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "010FA3CA-6450-482F-911B-4A6E9BD886AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94297046-8146-48B8-B818-D956E7B40B13",
+    "height": 66,
+    "width": 300,
+    "x": 226,
+    "y": 68
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6ECBAB1F-DDEE-4C70-AE36-B5C89C4D0ED4",
+      "overrideName": "365B0C6C-7C37-49AF-B410-B0EA76D50768/BD5FD435-472F-4A59-A377-267A6CA1EE2E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B350E7D-70D9-4272-B45A-A05F708905F8",
+      "overrideName": "0D16634C-21E9-4021-8095-76EB90C2D568_symbolID",
+      "value": "652B04BB-9DE8-47F5-B924-80C06CDC05FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C798E77C-71F3-4CF5-8490-73FA0B38D32E",
+      "overrideName": "0D16634C-21E9-4021-8095-76EB90C2D568/1B4157A7-3607-48A0-AE2F-4D6C6D9D5B26_stringValue",
+      "value": "Option one"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6494A1B-D81D-4647-89AC-AB8E076BCD23",
+      "overrideName": "7357FDFD-7AD6-4364-8E25-23A4B776158F/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Dropdown label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "9D218231-6F70-4FFB-A475-80CA89E412CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "209EEB4E-C868-48BE-A212-069D672544CF",
+  "verticalSpacing": 0
+}

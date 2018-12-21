@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A6B9D563-E3A5-4BAF-8DCF-CE03C7CAE21C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 273,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC854743-74E6-40CF-9CAF-9809074CCCC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D239A4B-7263-4E1E-A280-3BA17630494B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63658738-22E6-4BF4-BABB-224C5657E837",
+    "height": 15,
+    "width": 15,
+    "x": 230,
+    "y": 25282
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "753AC76B-10A9-4CBB-B637-812A2AA24C24",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B294F9B2-138C-4FF9-B819-81CB3CC9C496"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4166D73-D5A1-4FF4-A1CA-A0999D17E0F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FFFCBDA-468C-403B-9235-0A45D752FBEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE27D62A-2842-4DE3-BECB-451FB15A10F0"
+    }
+  ],
+  "name": "UI Icon/grid/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEF899BC-5B4A-4FAA-BEDF-808F14D635FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9423F5B7-DA92-46B6-B8AC-7BA3A7E46215",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8E6A9915-33E8-416D-86CA-D136027E2086",
+    "guides": [
+    ]
+  }
+}

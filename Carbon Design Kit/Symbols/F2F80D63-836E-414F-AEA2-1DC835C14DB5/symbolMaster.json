@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "308899D1-8FAE-4598-8915-BD52584A6ED9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 106,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2F80D63-836E-414F-AEA2-1DC835C14DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39119EAF-7406-4558-8E35-8FDB970C35D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C61B71E0-9244-4CEC-A294-4DEEF3967606",
+    "height": 20,
+    "width": 62,
+    "x": 328,
+    "y": 13242
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77081ED5-1A45-4245-993F-6B101D74CCC0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BA204F42-2648-4F75-B900-B2AA9A47F3EB"
+    }
+  ],
+  "name": "Component/Tag/Custom",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB7C090B-E401-434F-885F-9B32DDF9C8B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2C7A136-9867-45C7-858A-2C404975F38B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4961B861-9DB6-4DE2-A6BB-DB4C71318C5B",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7BA72B4-1FE1-49B4-AE23-1FD4D1B19F29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 253,
+    "x": -83,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC3397D4-8EB7-44E5-AF18-849018526998"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "961CD7E8-B0D8-4C3C-AC06-DA092596B618"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF212AD0-3618-4E75-AEDB-EE48F35D4BE0"
+    },
+    {
+      "class": "text",
+      "id": "E378885D-2A37-45D6-AE07-93D65B7279C6"
+    }
+  ],
+  "name": "Pagination - Unbound, unknown page amount",
+  "nameIsFixed": true,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

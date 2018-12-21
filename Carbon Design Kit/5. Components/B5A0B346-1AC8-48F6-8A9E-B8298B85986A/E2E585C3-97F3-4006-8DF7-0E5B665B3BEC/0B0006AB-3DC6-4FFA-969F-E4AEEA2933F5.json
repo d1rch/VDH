@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B0006AB-3DC6-4FFA-969F-E4AEEA2933F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8F69261-6477-4BAE-9FE6-FDE2E861EFB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3F3D299-3869-484C-BC80-75F4F17AC20E",
+    "height": 47,
+    "width": 163,
+    "x": 25,
+    "y": 152.1653003397141
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/Pieces/Past or Current",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B939E84F-F72F-48A2-A0CD-B5A418D6E105",
+      "overrideName": "2A7E5C1C-EB46-437E-978B-08FBED8E2D63_stringValue",
+      "value": "Second Step"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "016BEFBB-80AA-4433-B24F-70D74D7BFA83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "006066F6-4A99-4960-9135-A8397F6340A4",
+  "verticalSpacing": 0
+}

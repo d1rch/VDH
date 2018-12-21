@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 46,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0F12E04-AAE3-4058-AE5A-969CC20A96B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 125,
+    "x": 2159,
+    "y": 6729
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C8E04725-36AA-4299-AAA8-8559AC8E5795"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F402FFDA-BBB5-4D1B-8FE7-DC190F16EBB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7DD73AD-A1C8-4C1C-8E91-3F27E6EC3EA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C1021F4-F1F9-4E17-8873-83AA18D4C753"
+    }
+  ],
+  "name": "Component/Date Picker/Simple Date Picker (mm/dd/yyyy)/States/Active",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1114AE86-233E-4D04-9BDA-504BA014B5CE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D66CC547-78C9-447A-9A68-4229C0BA862B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36335516-99DE-45A0-B723-D3A027487DF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "534D26F4-3EE3-423C-B99B-BF09235580DA",
+    "height": 45,
+    "width": 300,
+    "x": 229,
+    "y": 148
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Multi-select Dropdown/States/Closed, hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C9BA91E-F8EC-4FA7-B54A-5F19637166F0",
+      "overrideName": "BADD4C93-77B5-45B0-9D53-DB5319DBE112/B744A33C-2DE6-4CA2-AD3B-F9A2807376EF_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C42B841E-56CC-46E4-A3A4-24787C9BD4ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7806814B-3B89-47E0-AA6B-F4FB46AE639F",
+  "verticalSpacing": 0
+}

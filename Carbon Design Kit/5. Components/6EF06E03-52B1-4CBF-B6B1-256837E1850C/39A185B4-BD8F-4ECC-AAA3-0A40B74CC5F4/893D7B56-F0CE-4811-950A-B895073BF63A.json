@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "893D7B56-F0CE-4811-950A-B895073BF63A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2BAD62A-4C36-4EDB-A2E9-8F5B0F3BB59D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60E58369-E103-4EBC-A987-0F90395680CF",
+    "height": 211,
+    "width": 180,
+    "x": 120,
+    "y": 763
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Overflow-Menu/Hover - Danger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D069F543-4AB8-4C34-AACB-343CBAB5CBF7",
+      "overrideName": "1AFE268A-BE07-459E-885D-C6205429E7E0/290A1960-3D9B-4CB3-83E4-E7F13DFD031A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E96B3067-FC14-44B3-9D98-809429AFA76A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0935C74-4E06-4744-8804-6DE370D34BE0",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "152DBC3E-489E-4A3F-B0F9-53E0AEF40AC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8B4BA563-9590-4CB8-A8DE-E6B779A74385"
+    },
+    {
+      "class": "text",
+      "id": "1537DEF1-A4D4-46FE-BC07-5A24AEBE00C0"
+    },
+    {
+      "class": "text",
+      "id": "F99E4AA2-EC9F-4D78-9A5D-7AFB5979C548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53AFD439-0FF6-45C8-82A5-661632BF8DF7"
+    },
+    {
+      "class": "text",
+      "id": "1BB6BED3-6549-4E91-B22D-ECB507557820"
+    },
+    {
+      "class": "rectangle",
+      "id": "6872A52E-E2FA-4171-B698-23683CC66672"
+    }
+  ],
+  "name": "Notification/Toast/Informational",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C372769-BD0D-45A1-8D08-428D14EE4B7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCBF059B-35AD-48A3-B664-90C15CFB775F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C5D6097-37EC-44EC-961E-A5218DECEB7E",
+    "height": 18,
+    "width": 112,
+    "x": 10,
+    "y": 6
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Pieces/Text/Brand-01 label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79E0F301-9D04-4029-B1B2-5E3C82EEF3FD",
+      "overrideName": "B3A2C8C6-4ED3-4F62-A117-44C3A69C31D5_stringValue",
+      "value": "Small secondary"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7572891A-F2DC-4390-9A82-B66D976BC9C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2FE12EF0-5894-4946-8658-1D9577E7EF38",
+  "verticalSpacing": 0
+}

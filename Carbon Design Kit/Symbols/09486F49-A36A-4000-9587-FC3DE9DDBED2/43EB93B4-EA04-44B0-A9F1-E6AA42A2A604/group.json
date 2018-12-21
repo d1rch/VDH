@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43EB93B4-EA04-44B0-A9F1-E6AA42A2A604",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 409,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "23030DDF-7A3F-479A-9E21-01494A578AB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "297618BE-B517-4CD2-8A70-620D6BA1468E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "653DF7BA-D063-48F1-83CF-38FCF8AB9FEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00813774-735B-4D9C-8B4A-ED67FF3ED870"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A784CF5-5C00-4B69-9230-F5F2AA37A1A7"
+    }
+  ],
+  "name": "Breadcrumb - Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

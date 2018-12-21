@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E03F55CD-2DE7-4511-B44C-9E0FC34C116C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D9B9341-7559-4B84-A658-A1510383D1CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4DD9E26-DECE-4530-8A70-0761B457B742",
+    "height": 209,
+    "width": 244,
+    "x": 71,
+    "y": 216
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Tooltip/Interactive Tooltip/Open",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54E2FCB4-DC47-489A-A4D2-072927C86675",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12774E8D-AC8B-4D4B-A69C-2A3F64A4F81D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "98C2628D-4910-4D94-9700-DC7868A41026",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 346,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF1FDDDF-544C-440F-B57C-0523431C7B4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C293DDA-0D6F-4BE7-A6F6-03215901FC55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DB3929E-4273-48D7-9515-C4B0EE6BFF66",
+    "height": 15,
+    "width": 16,
+    "x": 348,
+    "y": 31097
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0689C4EB-37ED-4B31-A360-855E39CC3786",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D93E1EEA-83BE-4E7B-9CF4-0ED99E61E7AD"
+    }
+  ],
+  "name": "UI Icon/star--outline/$ui-05",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E91419DA-4BD6-43D4-8DCF-6FA9B57F0713",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B408BC2C-819C-4A46-83CB-EA6155C122AD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2BA6C1ED-E547-42A2-AC59-643EF6331DC5",
+    "guides": [
+    ]
+  }
+}

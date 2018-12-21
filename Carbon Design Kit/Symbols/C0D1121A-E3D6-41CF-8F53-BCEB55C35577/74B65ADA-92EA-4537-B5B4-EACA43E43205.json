@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74B65ADA-92EA-4537-B5B4-EACA43E43205",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Filterable Dropdown/User Input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "263CF401-B0FE-4E19-8F93-D2EA6573EB6C",
+      "overrideName": "42C1F927-1F0C-4744-B4D9-37F74EE30A8A/1B4157A7-3607-48A0-AE2F-4D6C6D9D5B26_stringValue",
+      "value": "Item"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04DF35E1-B7D4-43DF-8851-2BDFCC79290E",
+      "overrideName": "42C1F927-1F0C-4744-B4D9-37F74EE30A8A/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Item |"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C19F780B-D935-4DC1-9DC1-3411B178E954",
+  "verticalSpacing": 0
+}

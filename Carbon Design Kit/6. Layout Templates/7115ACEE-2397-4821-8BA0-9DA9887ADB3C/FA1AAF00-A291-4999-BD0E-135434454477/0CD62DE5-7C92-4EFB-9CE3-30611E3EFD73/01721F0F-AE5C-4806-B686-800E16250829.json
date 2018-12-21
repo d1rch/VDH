@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "01721F0F-AE5C-4806-B686-800E16250829",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F973A7F1-17C3-4E17-8A70-D4F167335E38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "780F1371-49FC-4CFF-98A1-6E54445F4DD9",
+    "height": 32,
+    "width": 115,
+    "x": 24.48437499999955,
+    "y": 238.322571536145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Secondary/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BFAB1F8-B5C9-4DBC-A82F-6A896C1AF932",
+      "overrideName": "C1FFF628-A339-4DD6-9081-AE8395D06951_stringValue",
+      "value": "View Schedule"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D2AC5B1-D074-4528-B56D-30BFE8BD317E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD385D00-668E-4DC9-86B1-8562DE6C94E6",
+  "verticalSpacing": 0
+}

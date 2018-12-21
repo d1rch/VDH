@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0078E81-DE82-4068-BD42-CDF41D15CEFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 500,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Structured List/Narrow/Pieces/Additional Row, narrow",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44434440-5245-4CA1-91F1-6667F9133655",
+      "overrideName": "44D56171-5369-422E-9D3B-7E97E9FFA190_stringValue",
+      "value": "Row 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24FA516E-CF29-4554-B1AB-D156C40E4FDA",
+      "overrideName": "03537C0C-DE11-4CB1-B9EA-19BAE9027EE5_stringValue",
+      "value": "Row 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3AA80B4A-3407-4CAE-B572-0BE65FFD4F52",
+  "verticalSpacing": 0
+}

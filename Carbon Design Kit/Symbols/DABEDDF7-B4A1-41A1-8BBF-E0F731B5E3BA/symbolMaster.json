@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 668,
+  "clippingMaskMode": 0,
+  "do_objectID": "DABEDDF7-B4A1-41A1-8BBF-E0F731B5E3BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 560,
+    "x": 3304,
+    "y": 9512
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      535,
+      519
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "30682BEE-53D7-421E-A8A4-F7D91FDB9DE6"
+    },
+    {
+      "class": "group",
+      "id": "BFB5AA9E-75FC-49E8-9F3D-B786763080F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48081C75-C8EE-41D8-8C94-628A0BF0ECC1"
+    },
+    {
+      "class": "rectangle",
+      "id": "739C970D-B827-4E25-A04E-D0A344AB8B05"
+    },
+    {
+      "class": "rectangle",
+      "id": "31B2A66D-FEB5-48F0-8524-8AA9552E16B4"
+    }
+  ],
+  "name": "Component/Notification/Inline/Single/Informational",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2101F1A4-AD95-49DF-A1B3-09FBD157D7E2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      24
+    ]
+  }
+}

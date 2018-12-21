@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.984313725490196,
+    "green": 0.9686274509803923,
+    "red": 0.9568627450980391
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD7B6162-9A93-4009-AF1A-4929C1FD1E96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4982,
+    "width": 5186,
+    "x": 21838,
+    "y": -3660
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -20655,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "038E0889-9527-43B0-AD72-0BFD1EF4E883"
+    },
+    {
+      "class": "group",
+      "id": "9AF46D98-1CF9-4990-A5E3-60C60B097D59"
+    },
+    {
+      "class": "group",
+      "id": "7BD4818A-8A30-4EFB-B85B-83CC1CCD8E48"
+    },
+    {
+      "class": "group",
+      "id": "B0208969-6E2B-469C-898F-4980E46044C6"
+    },
+    {
+      "class": "group",
+      "id": "749A6B9A-CCF1-484A-BCCB-8A12001A1061"
+    },
+    {
+      "class": "group",
+      "id": "C307D64A-A1BF-437D-BDFA-F91D5C70E67D"
+    },
+    {
+      "class": "group",
+      "id": "1FAF03F9-2F5F-4D1B-94C5-2B9564411E27"
+    },
+    {
+      "class": "group",
+      "id": "B75AA510-9128-4F52-B398-563002C28961"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 89.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 2494.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1296
+  },
+  "name": "05 Data Table",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -13824,
+    "guides": [
+    ]
+  }
+}

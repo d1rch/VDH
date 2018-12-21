@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E836863-14B6-4C50-8DFA-600E7A261A97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EEA8319-DA5E-4453-BD0F-1AA15053FFDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8E76CB4-652A-49A3-8361-1EF7EF028C29",
+    "height": 14,
+    "width": 162,
+    "x": 20.7086229518502,
+    "y": 292.6869979767025
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Navigation/Pieces/Text/Parent",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6DABA67-E7FE-446A-B0A2-493D45407942",
+      "overrideName": "6973C2BC-1947-486D-95B2-F8CAAC7E0B69_stringValue",
+      "value": "News"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14C1753B-F677-4E16-96B8-54885103D0DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B147618-EADB-4AFF-BB66-C364A63A61C1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F1CB3DB-3842-4D6B-93BB-81BF97798BC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 1116,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4B24022E-A23F-441E-B28F-98F3DC432867"
+    },
+    {
+      "class": "group",
+      "id": "48CAB63F-6D41-419A-B029-376A6493F101"
+    },
+    {
+      "class": "group",
+      "id": "21620D63-A72D-47C1-82E9-F9D2C2670E8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0065823A-56A4-4C02-A88A-8D9911A629CA"
+    }
+  ],
+  "name": "Pagination - Full bar - hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68E5EDCB-8C9D-4D41-8439-FBB138011EAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFC5A3AD-B950-4871-A3DC-43C76D6C6DB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E774F613-47D5-49CF-8DF4-6AD89978B7A5",
+    "height": 68,
+    "width": 593,
+    "x": 192,
+    "y": 399
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Slider/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "85E4B402-3EE3-448D-B165-5ED116055489_symbolID",
+      "value": "4F77F855-F31B-4B00-BE70-18710E6E2B68"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D328B65-DD6C-453F-B910-B5CC8D5E388D",
+      "overrideName": "E3E60C2E-48EB-4F0A-81EE-51208554877B_symbolID",
+      "value": "4F77F855-F31B-4B00-BE70-18710E6E2B68"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25006397-EC1A-4F82-A227-CD7ABD1FE79C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB5F868D-FC78-40D9-A683-A459422E7EE9",
+  "verticalSpacing": 0
+}

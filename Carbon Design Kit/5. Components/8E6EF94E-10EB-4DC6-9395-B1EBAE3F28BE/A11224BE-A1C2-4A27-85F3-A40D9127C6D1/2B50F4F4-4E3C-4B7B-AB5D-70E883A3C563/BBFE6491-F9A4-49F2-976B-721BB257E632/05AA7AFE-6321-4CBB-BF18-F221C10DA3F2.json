@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "05AA7AFE-6321-4CBB-BF18-F221C10DA3F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42361B80-8C0F-437D-8CF3-8C68EEC6F6A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E6FE7A7-B721-47DC-AAC6-2E35F8690557",
+    "height": 40,
+    "width": 300,
+    "x": 225,
+    "y": 758
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Pieces/Row, hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10F4BBFE-9FAE-4833-BE3E-7BA3BCD53484",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9ACA03B-DB77-4E60-84EF-A291A9D32B55",
+  "verticalSpacing": 0
+}

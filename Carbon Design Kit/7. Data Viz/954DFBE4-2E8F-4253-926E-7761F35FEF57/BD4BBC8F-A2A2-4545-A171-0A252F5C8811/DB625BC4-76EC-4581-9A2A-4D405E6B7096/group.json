@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB625BC4-76EC-4581-9A2A-4D405E6B7096",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 260,
+    "width": 537,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "57733FA9-3CA9-40BF-8701-E51F61A89D34"
+    },
+    {
+      "class": "group",
+      "id": "2A6B1CC5-A5E5-4719-8918-EF562D8AD093"
+    },
+    {
+      "class": "group",
+      "id": "E948855C-998E-4CA4-A56C-EB2CA13A7CB0"
+    },
+    {
+      "class": "group",
+      "id": "A454C4A5-DC6F-4CE3-8C89-FE1D00ED5104"
+    },
+    {
+      "class": "group",
+      "id": "B838A21E-C18F-4BB6-909B-33C272E1AD82"
+    },
+    {
+      "class": "text",
+      "id": "957FB7FA-87A4-41F2-B6A0-5774AAD56FD4"
+    }
+  ],
+  "name": "Scatter plot - single",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

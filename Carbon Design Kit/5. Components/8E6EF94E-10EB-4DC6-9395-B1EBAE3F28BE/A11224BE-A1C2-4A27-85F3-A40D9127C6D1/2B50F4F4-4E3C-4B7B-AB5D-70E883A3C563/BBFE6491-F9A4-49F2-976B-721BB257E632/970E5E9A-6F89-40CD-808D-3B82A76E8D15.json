@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "970E5E9A-6F89-40CD-808D-3B82A76E8D15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9B5AC8C-B587-4B16-812D-C3B16EB0919F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C43726DB-129B-4946-9D9B-8557B355055E",
+    "height": 66,
+    "width": 300,
+    "x": 225,
+    "y": 192
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Multi-select Dropdown/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "822729A8-AA4A-4960-A8A0-0D437B751044",
+      "overrideName": "5D0C4A5A-1411-49DB-A650-CFF270E9C4B2/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Multi-select Dropdown label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDEF9619-72D2-476D-93EE-27E9163BCD92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29B86F5B-1718-4AC6-A51D-5A3943B8D249",
+  "verticalSpacing": 0
+}

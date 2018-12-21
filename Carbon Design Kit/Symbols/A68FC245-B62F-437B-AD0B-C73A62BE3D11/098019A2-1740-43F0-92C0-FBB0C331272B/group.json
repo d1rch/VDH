@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "098019A2-1740-43F0-92C0-FBB0C331272B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9A360A7-3AED-45F0-97F1-79715B0F0CA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9A568A9-A674-4966-8CFD-221827047416",
+    "height": 53,
+    "width": 170,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A2257BF-E70F-42B3-8769-C6E4703B676C"
+    },
+    {
+      "class": "text",
+      "id": "8AA84A86-356A-4186-BB68-209F75F7466B"
+    }
+  ],
+  "name": "Definition Tooltip/Open",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B8AF91D-F313-4EE8-BF75-27E102FA2CFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

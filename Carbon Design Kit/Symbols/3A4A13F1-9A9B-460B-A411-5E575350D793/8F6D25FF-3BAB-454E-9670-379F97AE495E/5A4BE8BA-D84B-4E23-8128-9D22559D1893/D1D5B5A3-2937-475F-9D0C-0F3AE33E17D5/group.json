@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1D5B5A3-2937-475F-9D0C-0F3AE33E17D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 249,
+    "x": 17.00000000000003,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "48A3507E-7222-4AC9-A515-866C64509EC7"
+    },
+    {
+      "class": "group",
+      "id": "A3AF74B8-346B-4EF0-BC7E-4273DCA2AB42"
+    },
+    {
+      "class": "text",
+      "id": "D239E3FE-9888-4A17-A631-B31993446EB7"
+    },
+    {
+      "class": "group",
+      "id": "424BC9BD-B5F1-485F-84C7-D6F191F59CD7"
+    }
+  ],
+  "name": "Month & Year",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

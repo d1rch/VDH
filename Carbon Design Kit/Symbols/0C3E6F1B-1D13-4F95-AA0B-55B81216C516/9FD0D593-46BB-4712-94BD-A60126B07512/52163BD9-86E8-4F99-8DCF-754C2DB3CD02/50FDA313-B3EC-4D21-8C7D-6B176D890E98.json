@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "50FDA313-B3EC-4D21-8C7D-6B176D890E98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "550C7C00-6F68-4B4D-9445-8CC86A257430",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D6203B8-9B3F-462D-8F4D-785C85F4440B",
+    "height": 129,
+    "width": 145,
+    "x": 39,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Navigation/Pieces/Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CD73083-EA61-42C1-B0D0-6E88040C8CC3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "55EE1CAF-1C84-47F6-B7F4-BDA78924F4C8",
+  "verticalSpacing": 0
+}

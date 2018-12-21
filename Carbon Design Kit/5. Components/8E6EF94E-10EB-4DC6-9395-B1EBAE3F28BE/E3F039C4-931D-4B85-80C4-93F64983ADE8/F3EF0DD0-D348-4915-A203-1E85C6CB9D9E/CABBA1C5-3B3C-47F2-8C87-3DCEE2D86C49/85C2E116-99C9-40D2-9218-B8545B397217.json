@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "85C2E116-99C9-40D2-9218-B8545B397217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F6F434F-2732-42D1-914D-5DE4B7B8BE9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFF7A73D-8ED2-4106-90FA-71D6DF285301",
+    "height": 186,
+    "width": 300,
+    "x": 226,
+    "y": 638
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Label/Dropdown/States/Open, focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15C465F4-B3AC-4D13-A5D6-B50E1B3050CA",
+      "overrideName": "41A26933-2928-493C-9336-8282F13BEE12/C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Dropdown Label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76A6B49C-F1D3-4308-8F48-67DF8B6EA5D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57216121-8C74-418E-B6BF-5709F7B999E0",
+  "verticalSpacing": 0
+}

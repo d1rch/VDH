@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FBE7891-3BF8-4E1F-9A33-C414A51FFB31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00CEB8C5-F3CD-4008-8845-D6B75306596E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BD4262A-8182-47DB-BB54-344195A802F0",
+    "height": 36,
+    "width": 572,
+    "x": 1,
+    "y": 243
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DB0DC855-CB23-41B4-AFFD-8E978D92D41A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08AF1ECF-FB55-40A2-9852-8473A2337D27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82AEC094-C76C-4A66-94D9-0C2B9E3DA07A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A470C70-D35F-41A7-B201-DAE8FAC0C923"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "150C5E7C-7204-4257-B444-BEB469DC07DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49163AA7-131A-4D47-B24D-16D3AA92BAE0"
+    }
+  ],
+  "name": "Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEB8EE8B-1699-49F5-8344-4C69BEB0B39A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

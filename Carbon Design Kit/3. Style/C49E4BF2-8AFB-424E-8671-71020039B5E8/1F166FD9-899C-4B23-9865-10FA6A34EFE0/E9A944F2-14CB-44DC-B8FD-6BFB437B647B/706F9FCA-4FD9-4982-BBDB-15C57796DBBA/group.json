@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "706F9FCA-4FD9-4982-BBDB-15C57796DBBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 306,
+    "x": 44,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "5FEE3FB1-2524-45BC-8724-6B496E0EA31B"
+    },
+    {
+      "class": "oval",
+      "id": "3D433041-5D23-47BE-BE5A-30998513122D"
+    },
+    {
+      "class": "oval",
+      "id": "1D10C4C6-9E8C-4279-BAA1-6523A41EFBB7"
+    },
+    {
+      "class": "oval",
+      "id": "910E4D16-DFA7-47B1-AC6B-E9BE667B38BF"
+    },
+    {
+      "class": "oval",
+      "id": "6012632C-4EDD-4838-B49D-DC9080EF4489"
+    },
+    {
+      "class": "oval",
+      "id": "EED7F021-36C2-4306-BDEB-B3B56D39DB93"
+    },
+    {
+      "class": "oval",
+      "id": "BC510BE4-7E5B-4D3B-8526-173A172A807D"
+    },
+    {
+      "class": "oval",
+      "id": "0C1DD2F7-0A46-4066-824E-4125052804E8"
+    },
+    {
+      "class": "oval",
+      "id": "E3A153D0-8F65-41DE-9E1F-CD98EC35130F"
+    },
+    {
+      "class": "oval",
+      "id": "B7B26A6D-76A2-412B-B21F-18FAD1310886"
+    },
+    {
+      "class": "oval",
+      "id": "C7F43A38-63C9-4216-AFD8-51BF8B563DA6"
+    },
+    {
+      "class": "oval",
+      "id": "1C3D202B-AF1A-4E9C-AC9A-50351F5E6D4D"
+    },
+    {
+      "class": "oval",
+      "id": "7B90D091-0979-445F-9597-43AEF8BD4E20"
+    },
+    {
+      "class": "oval",
+      "id": "580408C2-158D-4F88-BB6E-68A52AE8423C"
+    },
+    {
+      "class": "oval",
+      "id": "661A331E-AF62-42FD-9B7A-D5E16E9B8034"
+    }
+  ],
+  "name": "Graph Data Points",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

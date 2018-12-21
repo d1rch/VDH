@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEE55189-5E1B-47C7-BA47-5CAB157A4B9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B88A6F7-42AC-493E-AEC2-324A9562C72A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BF786DE-2F0D-4A48-A654-67FEDB336949",
+    "height": 159,
+    "width": 300,
+    "x": 229,
+    "y": 305
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/DropdownMulti-select/States/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CCAD3C5-D8FC-4C11-9D85-0DE2735C08EA",
+      "overrideName": "745B2A25-3755-4256-9B70-42CE869283E7/B744A33C-2DE6-4CA2-AD3B-F9A2807376EF_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62C445F2-EEC2-4163-9695-2D2149A6C541",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B9FE085-D266-46B2-B9CA-C20EB3243A70",
+  "verticalSpacing": 0
+}

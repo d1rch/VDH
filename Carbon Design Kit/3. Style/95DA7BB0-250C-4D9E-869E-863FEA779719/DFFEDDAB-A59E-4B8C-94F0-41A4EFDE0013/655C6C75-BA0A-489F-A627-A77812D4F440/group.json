@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "655C6C75-BA0A-489F-A627-A77812D4F440",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F57B543-F670-4890-BE8F-502552EC17A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E36161D-7410-4CCC-B832-A5D2618C046D",
+    "height": 92,
+    "width": 532,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "83600FF0-024B-4640-89A9-7574562D1B24"
+    },
+    {
+      "class": "text",
+      "id": "CA1B0048-FB05-44E9-B620-41CDD724FDE2"
+    }
+  ],
+  "name": "Documentation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF309AA5-FFBE-436F-8EFA-310B2C740122",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

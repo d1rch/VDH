@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D3B7BDD-FEE5-4879-8A7D-D14050AD30A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDC5F58A-A5B4-4DDB-9A30-B51BA4F7961C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05D943C8-7F43-4DBF-9812-05FF05AB8B92",
+    "height": 12,
+    "width": 16,
+    "x": 10.71484375,
+    "y": 0.2478965501668426
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/Glyph/filter/$brand-01",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9B6F3A6-118D-4126-8137-78E4D648028B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11A9BA2B-D739-48D7-8E34-72A6C47A2123",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C964A7ED-B3CD-47FE-AFEA-1B00531AC3DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 145,
+    "x": 328,
+    "y": 57
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/States/Info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AF4DE5F-2249-4BD0-82B0-33707A54FBB6",
+      "overrideName": "AE3A9B2D-57E4-4BA7-AB5B-DF3A658263D8/D4E99460-C714-4EDE-B258-B6458C0C5738/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Secuirty code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B96826D-3DE5-4691-B245-C709B1FE4A3F",
+      "overrideName": "AE3A9B2D-57E4-4BA7-AB5B-DF3A658263D8/33B3BBC4-F16E-4A0A-8029-46B4E06E4EC6/2B4DEDFE-9416-4A7C-BE26-BF99E592C56A_stringValue",
+      "value": "820"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA2427E2-F7CD-4850-8AB6-9FED348F846C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C84E8421-174C-49FE-8785-0BADEB15DA79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41ACEEBC-C16D-43FB-90FB-6441EE72A242",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8907DA4A-CAFA-4F03-AF74-1EB7FF244713",
+    "height": 160,
+    "width": 300,
+    "x": 798,
+    "y": 76
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Filterable Dropdown/States/OnClick",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EA1F136-C13F-4219-B0E3-7885ACBBACBA",
+      "overrideName": "22124C69-5056-4205-AFFD-3306D71A8CBD/552EDBE7-CC9D-4B33-87D1-6B2AFA83F160_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7489AA9-DBCC-4FAF-B562-A555B14C6279",
+      "overrideName": "22124C69-5056-4205-AFFD-3306D71A8CBD/FD5B912E-CEE8-4A6C-97D8-0B46B694EDD5_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88EBE5AC-C66F-469F-8DEA-88393685AEDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C44E40B-4759-4473-BA3C-023D110BFF97",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DC69F7A-9841-4CDC-8868-C71820320378",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28F01687-CAE5-4ED2-B8D1-F81677E65784",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA5F5596-57CA-4B01-B52F-23AE3FEBE8AB",
+    "height": 84,
+    "width": 310,
+    "x": 1,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Select/Large/Validation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BC44DDA-CE32-4E00-A246-CD9D5F052ED7/F65D625A-ADDA-4EED-A510-A2C55CD9F291_stringValue",
+      "value": "Security question"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BC44DDA-CE32-4E00-A246-CD9D5F052ED7/1F8ADC3C-3266-4B96-90AB-4A39C0AA7841_stringValue",
+      "value": "Pick a security question"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A2A8145-3948-424E-93F5-334A97A9C9A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEBBD91A-311A-4EDE-A302-ADA0D3511C05",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF378C5A-6C1F-4AFF-8A32-AAE3B4A33768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8561B98B-4C0F-488C-91C0-7A570583E628",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0138FCA-1176-4B7A-853B-F9E7F16A4BA5",
+    "height": 121,
+    "width": 300,
+    "x": 0,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Dropdown/States/Open",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E6E0A917-4102-42A0-8744-EB478BAD654D_stringValue",
+      "value": "Item 1\nItem 2\nItem 3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48A92B5B-FF88-4B43-8A9D-D2D0A7C0BED1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A5B4EB8-5BA7-4BD5-8EF2-C730DF6EC6C7",
+  "verticalSpacing": 0
+}

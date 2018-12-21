@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67355223-B47A-4ABB-8C86-4008F44C0A4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "125F2D77-2CFA-4E0B-A6CB-F1C56DB7F262",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACC8DCD5-E152-42CE-9344-AFD99A94AF96",
+    "height": 24,
+    "width": 24,
+    "x": 233.895833333333,
+    "y": 0.9828549278210872
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Progress Indicator/States/Current",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24500414-D571-497A-AB4B-E94AAAF139AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F540027-3524-4210-B365-0C0A57311183",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C84B109F-604B-4947-8B62-CDAE043C83D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "097AC316-0589-45CE-8DDC-5727BFD5662E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A3F661A-2946-4C80-8988-6225F9829A6F",
+    "height": 14,
+    "width": 162,
+    "x": 0,
+    "y": 37.41216339294056
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Navigation/Pieces/Text/Parent",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92435B91-8229-48B6-BE1E-08B269900208",
+      "overrideName": "6973C2BC-1947-486D-95B2-F8CAAC7E0B69_stringValue",
+      "value": "Primary 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3472D087-5921-4857-B392-FCA56381BED9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B147618-EADB-4AFF-BB66-C364A63A61C1",
+  "verticalSpacing": 0
+}

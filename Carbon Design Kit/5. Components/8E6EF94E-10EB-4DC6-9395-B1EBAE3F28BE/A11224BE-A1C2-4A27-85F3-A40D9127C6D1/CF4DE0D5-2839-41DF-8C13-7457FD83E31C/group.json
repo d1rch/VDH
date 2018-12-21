@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF4DE0D5-2839-41DF-8C13-7457FD83E31C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9899DF2-496A-4150-AA3A-D2DE0376E4BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E62882AC-539E-4EA0-B40C-0A6DF71E3EF4",
+    "height": 196,
+    "width": 339,
+    "x": 0,
+    "y": 6032
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B768576-BD40-4EDE-BA7E-35A7E5D4A67B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E960F5F0-79EC-4621-814E-3938D43B72F1"
+    }
+  ],
+  "name": "Number Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F22FEB9-66A6-460C-9709-79FF985CCA6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

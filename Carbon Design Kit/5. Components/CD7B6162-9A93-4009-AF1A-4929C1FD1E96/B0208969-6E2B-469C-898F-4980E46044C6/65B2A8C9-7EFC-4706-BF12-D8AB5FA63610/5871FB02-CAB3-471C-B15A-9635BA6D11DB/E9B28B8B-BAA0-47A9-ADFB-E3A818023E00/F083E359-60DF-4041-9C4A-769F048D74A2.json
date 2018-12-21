@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F083E359-60DF-4041-9C4A-769F048D74A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0ED8FE6F-CEAE-4156-9128-4627A7DD624A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6176EAA2-BCD1-4914-AC45-1DB0B45F2C95",
+    "height": 15,
+    "width": 3,
+    "x": 1083,
+    "y": 9.08532399406721
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Icon/overflow-menu/$ui-05",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5E65930-EC34-410A-90C5-A3AEA2C1AE4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C2D203E-7220-441C-ACF2-0A3F584A367F",
+  "verticalSpacing": 0
+}

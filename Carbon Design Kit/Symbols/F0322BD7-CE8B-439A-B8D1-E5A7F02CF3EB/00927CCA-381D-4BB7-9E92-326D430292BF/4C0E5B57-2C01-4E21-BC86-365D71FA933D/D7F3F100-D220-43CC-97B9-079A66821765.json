@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7F3F100-D220-43CC-97B9-079A66821765",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 76,
+    "x": 148.0903337194561,
+    "y": 0.765625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Tabs/Individual/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D738B316-0EF3-4DCF-A754-C7239755FF7F_stringValue",
+      "value": "Overview"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35FB09D7-3A6D-4369-BD38-157481E23BEE",
+      "overrideName": "0C080B7A-EB57-44C9-ABE4-1E96B4FDDB05_stringValue",
+      "value": "Credentials"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "84E42EAE-5406-4BDC-B5F5-9D843A4EB78C",
+  "verticalSpacing": 0
+}

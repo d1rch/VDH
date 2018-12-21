@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D471418B-2DBC-4CBF-BC51-CDAA8625C3E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C340C88-B0EB-4364-A6C0-C20628ABE9CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF2AFF21-C296-4ED2-A0CA-A7BC410DC47E",
+    "height": 40,
+    "width": 133,
+    "x": 1,
+    "y": 350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Button/Primary/Disabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "18C4DAF1-755B-4E1C-BEDF-C44806BFD052/6E873B50-CC3F-4FCB-897E-0CFBC84B1154_stringValue",
+      "value": "Create account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AE5219E-F74C-4614-B296-D24CE7E8DC12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "388470D1-AD1F-45FB-85C6-BB0C6B07E437",
+  "verticalSpacing": 0
+}

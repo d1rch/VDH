@@ -1,0 +1,136 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C5634D0-E337-4960-8A14-0AB4F73231CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B8F7DD3-19CF-448D-83F3-5E2D0239176A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA946A59-A4C7-4C1E-9E30-306792B76661",
+    "height": 567,
+    "width": 892,
+    "x": 7,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Data Table/Default/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40490AD9-0947-4553-BF27-1B85F9892DF6",
+      "overrideName": "7067B772-AF2E-4555-B08A-D58D673B39FC_stringValue",
+      "value": "Calories"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "840890C4-1F7F-46A2-A155-D0703928B844",
+      "overrideName": "1C8AA23A-7844-4022-A9C8-2FED0B3A3D69_stringValue",
+      "value": "Fat (g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "772E63E0-3652-4440-A684-A8DEC6D8526F",
+      "overrideName": "785D2A09-8B6E-4F03-8AB6-D952A7FE90C5_stringValue",
+      "value": "Saturated Fat (g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6233F809-10F5-4883-9C56-7AD0887C0007",
+      "overrideName": "291E0DA9-60A7-42B7-8F32-B5E428A0B17A_stringValue",
+      "value": "Carbs (g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA8C36D5-A25E-480B-9464-FCB1525AF669",
+      "overrideName": "F126CA0F-900C-4D65-A2C5-6D4E0D31F739_stringValue",
+      "value": "Protein (g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D25BAFDE-3A3B-4EB5-B0BB-A3E43DF8703D",
+      "overrideName": "970835EB-0A19-456C-9771-33176D03F74E_stringValue",
+      "value": "Tacos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DDA8564-1920-49A9-A142-097D2906541B",
+      "overrideName": "54764DB2-1CB5-4106-9B90-A6ED3D806B92_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE2DA51E-D86A-4D17-94DD-39C1AD6895ED",
+      "overrideName": "26CB39D1-475B-4996-81A8-FEE312B4FC13_stringValue",
+      "value": "Alabama Shake\nTipsy Chick\nGreen Chile Pork\nThe Democrat\nFried Avocado\nThe Republican\nTrailer Park\nThe Independent\nTrashy Taco\nBrushfire"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACF4E9C5-EEEE-4AEC-8028-20C9DFDE605C",
+      "overrideName": "AFE306FB-A283-430F-8B07-763E240EEFE8_stringValue",
+      "value": "284\n492\n593\n520\n310\n401\n509\n592\n391\n750\n492\n593\n520\n310\n401\n509\n592\n391\n750"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41A1D2F2-7D00-459E-85CE-66755AFF09EB",
+      "overrideName": "CEF8C9C9-E133-4BAF-BA0F-00B74126A237_stringValue",
+      "value": "12\n12\n9\n18\n10\n12\n17\n16\n17\n13"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AA7C4D9-FE5A-4588-A762-C1F398966413",
+      "overrideName": "B7ACE4DD-366F-41CF-94B5-D0D4A76565A1_stringValue",
+      "value": "8\n4\n2\n5\n8\n7\n8\n4\n5\n6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E464B32-79E5-4D26-ADFE-81AB45673D31",
+      "overrideName": "6E16669F-077D-4435-8E57-1FD6098EF619_stringValue",
+      "value": "30\n45\n23\n40\n55\n60\n30\n25\n27\n34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC51CC4B-90F4-4B05-B0CB-91AAF8E2E729",
+      "overrideName": "224AC816-15A4-4C04-BBCD-77CCD2700B8C_stringValue",
+      "value": "9\n12\n17\n19\n5\n12\n10\n15\n8\n7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "152C85E0-B831-45E1-9461-F08134574E53",
+      "overrideName": "EABDBD14-7F49-42F5-A904-21FD282E99FC_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A553D4A-64B4-439C-ABED-3C065A1F880B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D005F6E-77BE-4D76-977B-144BB4835385",
+  "verticalSpacing": 0
+}

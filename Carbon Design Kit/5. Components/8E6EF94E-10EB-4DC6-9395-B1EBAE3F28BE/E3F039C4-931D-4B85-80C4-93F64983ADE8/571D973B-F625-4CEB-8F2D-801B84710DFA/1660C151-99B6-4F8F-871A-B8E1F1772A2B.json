@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1660C151-99B6-4F8F-871A-B8E1F1772A2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11291B54-224F-47E2-8594-ED0F5E9B4886",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85599B52-C224-41DA-94F9-46204DB2CA72",
+    "height": 30,
+    "width": 266,
+    "x": 210,
+    "y": 457.6945219154416
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/File Uploader/Uploaded file",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52AC55FD-053D-431F-B46A-64A8A1798327",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E99D6741-1DAB-4E7B-82F7-33DA95092246",
+  "verticalSpacing": 0
+}

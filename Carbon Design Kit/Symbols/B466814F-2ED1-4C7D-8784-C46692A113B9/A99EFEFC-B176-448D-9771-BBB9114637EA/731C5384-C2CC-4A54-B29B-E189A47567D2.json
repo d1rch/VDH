@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "731C5384-C2CC-4A54-B29B-E189A47567D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C274FCC5-5725-48C1-8050-B1B4D5F80EE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33164EAB-0EDD-4C01-AA71-854ECA85C4E3",
+    "height": 18,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Pieces/Text/Label, active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "570E9B25-D68D-428C-B42C-E38F42B5B4D2",
+      "overrideName": "C3A3F2E2-20AC-40D4-86CD-60D85075A1AB_stringValue",
+      "value": "Text Area label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CCD6D58-1247-4FD5-81CC-D8621362272B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "184B37D8-31FD-48E9-A945-C96A70253507",
+  "verticalSpacing": 0
+}

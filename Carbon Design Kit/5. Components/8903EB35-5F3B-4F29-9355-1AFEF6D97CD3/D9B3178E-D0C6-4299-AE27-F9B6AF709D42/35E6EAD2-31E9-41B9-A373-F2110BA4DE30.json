@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "35E6EAD2-31E9-41B9-A373-F2110BA4DE30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "990B6963-48DB-4DDC-9643-4C6EAC189C16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5FDE0ED-4288-4C68-BDEE-FF526E91CBB4",
+    "height": 20,
+    "width": 49,
+    "x": 0,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element/Tag/Local/Light-UI",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D26C802-0E1A-4ECA-8BD3-70152A9F5D84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B768916-F790-438F-8F49-E35C6E24E694",
+  "verticalSpacing": 0
+}

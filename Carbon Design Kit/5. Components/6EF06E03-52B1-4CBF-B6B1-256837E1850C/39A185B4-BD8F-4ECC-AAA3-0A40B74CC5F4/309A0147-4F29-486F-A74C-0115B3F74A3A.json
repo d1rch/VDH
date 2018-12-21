@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "309A0147-4F29-486F-A74C-0115B3F74A3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "061003CD-30F3-4C20-8DD5-4E335C005BEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C09FCD3-D18C-4688-8C1E-B1BB7344CE69",
+    "height": 209,
+    "width": 180,
+    "x": 120,
+    "y": 218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Overflow-Menu/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F74A2AD8-8ED4-4737-9E05-55FF6D95B892",
+      "overrideName": "711EA2EA-55E8-4FBE-9297-87CD0F2F4E1A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72EC1FC0-400E-4C6C-8200-80579E120648",
+      "overrideName": "290A1960-3D9B-4CB3-83E4-E7F13DFD031A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E09BC4E-22A4-437A-98CB-762B9AE56EC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C83D7D3-E98E-4903-94C3-B3AEB6D0DD3C",
+  "verticalSpacing": 0
+}

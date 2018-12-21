@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCF2EA54-5BA2-4D83-89CA-2687F68FA77C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C42578CE-114F-4E7D-8FCE-0F4AFF67C4C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CEF2A00-724E-4C28-9E12-8F53520DD2DF",
+    "height": 16,
+    "width": 14,
+    "x": 0,
+    "y": -2.664535259100377e-14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "873C01E4-0CD5-4681-971D-D3CF212745C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "264BB9B1-F7A1-4088-A5E2-870BFE36C625"
+    },
+    {
+      "class": "rectangle",
+      "id": "61F935A1-EDD7-4325-A3FC-49CE2EDA25D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "49E82D6A-EA6B-43AE-B84D-24DF781DDA90"
+    }
+  ],
+  "name": "bel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "049899ED-B16A-4341-80AF-3C7965BFD400",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.4392156862745099,
+          "red": 0.2392156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

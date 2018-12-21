@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "31D0B09C-F5A9-43BD-AA71-6923E4011343",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "70CA172F-A8E5-49EB-95A5-BE3EC6030617"
+    },
+    {
+      "class": "group",
+      "id": "77BD8719-DFE9-4EF2-9E9F-92E454A62465"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D405E568-23CF-4954-8EDA-8F0DD6DC981E"
+    },
+    {
+      "class": "text",
+      "id": "960DF658-31BD-4E3B-ABF5-C848B9F8CDD1"
+    },
+    {
+      "class": "group",
+      "id": "2940968C-C278-43CB-82CB-805C5E8806C9"
+    }
+  ],
+  "name": "DPH/with tabs/mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

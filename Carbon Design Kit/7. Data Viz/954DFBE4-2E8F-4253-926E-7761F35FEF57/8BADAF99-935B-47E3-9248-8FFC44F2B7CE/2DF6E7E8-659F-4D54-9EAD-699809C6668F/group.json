@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DF6E7E8-659F-4D54-9EAD-699809C6668F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 636,
+    "x": 0,
+    "y": 630
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7BF9889D-2372-4EBC-90BA-DB1B0416730E"
+    },
+    {
+      "class": "group",
+      "id": "17CA8B06-0F75-4F7F-8BF5-95E15AFE1115"
+    },
+    {
+      "class": "group",
+      "id": "A98D3966-C395-4A75-A1C2-64F66D0774F3"
+    },
+    {
+      "class": "group",
+      "id": "7A71CE36-7138-4ECB-81F9-DD04FE523E32"
+    },
+    {
+      "class": "group",
+      "id": "1D5019C8-5403-41E0-A738-7E38346C4C93"
+    },
+    {
+      "class": "text",
+      "id": "CCACB47E-E52B-4529-9078-A370AE6081FD"
+    }
+  ],
+  "name": "Bar graph - 3 data sets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

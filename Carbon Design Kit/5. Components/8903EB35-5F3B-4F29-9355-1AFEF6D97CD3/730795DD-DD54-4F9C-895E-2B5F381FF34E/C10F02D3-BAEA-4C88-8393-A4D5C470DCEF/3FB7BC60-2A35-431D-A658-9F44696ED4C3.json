@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FB7BC60-2A35-431D-A658-9F44696ED4C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F7BC921-719A-4696-BC25-1F201BA48894",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E7791D4-B035-4E52-9FC0-DE4E3A9A89D3",
+    "height": 56,
+    "width": 561.0000000000008,
+    "x": 0,
+    "y": 176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Notifcation/Inline/Error/Multi-Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66AB2699-ADDC-4C6F-AF27-050E5AEF5203",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9946D5E-A3F8-46C4-B594-25B443E69F37",
+  "verticalSpacing": 0
+}

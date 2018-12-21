@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB81BEC2-3E44-4C91-80F6-3A025D1EB897",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A1EC98D-1EC8-4C2F-96B7-F11D898904C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEDCB442-2444-4C47-9E18-4B255CC02EB2",
+    "height": 89,
+    "width": 282,
+    "x": 93,
+    "y": 667
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E3EB6739-E617-42FD-9E13-4AAA2CBE0E2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032999B1-B150-4B18-829E-B48B544968F6"
+    }
+  ],
+  "name": "Horizonatlly Stacked",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6136C40-AFA9-4D37-8460-6F45AC128DBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

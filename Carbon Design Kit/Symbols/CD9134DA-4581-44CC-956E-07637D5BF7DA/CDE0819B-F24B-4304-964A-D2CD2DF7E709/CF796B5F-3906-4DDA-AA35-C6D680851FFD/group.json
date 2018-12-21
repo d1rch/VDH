@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF796B5F-3906-4DDA-AA35-C6D680851FFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "44FEE920-D00F-40E3-8723-97767529B615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD9541A5-FC9D-49DF-820F-647B9AF2F86E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB9D3348-9245-4D1C-BB36-AC24D902BBF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD0A7589-C35C-490C-8E10-C71C74B79233"
+    }
+  ],
+  "name": "Input field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

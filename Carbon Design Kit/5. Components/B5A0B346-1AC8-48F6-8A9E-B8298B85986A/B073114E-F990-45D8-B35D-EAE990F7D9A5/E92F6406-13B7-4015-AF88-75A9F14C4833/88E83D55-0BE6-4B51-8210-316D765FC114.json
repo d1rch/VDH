@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "88E83D55-0BE6-4B51-8210-316D765FC114",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C22346F9-469C-41E7-8172-1A2A64406BB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B306825D-A03D-4A09-8166-6E3950E2184D",
+    "height": 40,
+    "width": 1116,
+    "x": 0,
+    "y": 199
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Pagination/Known Page Amount/Bound",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "083258F2-2A78-4A1B-88B1-B9A06309A3A1",
+      "overrideName": "52A21FE3-7CA3-4762-9455-2332EF35F3DA/85EADC4B-BE11-4C54-9C45-592D25A9DE0B/E378885D-2A37-45D6-AE07-93D65B7279C6_stringValue",
+      "value": "Page 4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C2341E9-822F-44C2-B672-19BC1304D8CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "251BFDE0-0F16-439D-B045-0B3D35F6D290",
+  "verticalSpacing": 0
+}

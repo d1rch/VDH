@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D0189C3-7CE1-4C41-8373-3C43D3C640D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF8DED01-1BAB-447D-885A-9FD6AC4669A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "484B035E-5057-4265-BEFB-7323EA4B9BC9",
+    "height": 66,
+    "width": 97,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Date Picker/Simple Date Picker/Enabled",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF92BBE6-C953-4C66-9358-3D28D0F46815",
+      "overrideName": "4FA99A5B-7240-4F7A-9C4B-A3ECC5554B51_stringValue",
+      "value": "Date Picker label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "614D1C36-6801-456C-ADE8-FBB1EACFA005",
+      "overrideName": "5152B70E-10AF-4635-90CE-BA0DE93BBD02_symbolID",
+      "value": "6138FAE1-168D-4199-B8E0-12740615B216"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4BDDD4A-B13A-474B-BB65-581DA4BD96D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2FC1B6B8-B96B-4769-AB15-9B62505A43E1",
+  "verticalSpacing": 0
+}

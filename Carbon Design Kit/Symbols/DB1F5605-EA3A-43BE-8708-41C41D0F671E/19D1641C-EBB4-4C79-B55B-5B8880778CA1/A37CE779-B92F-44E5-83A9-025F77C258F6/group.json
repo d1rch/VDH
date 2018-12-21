@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A37CE779-B92F-44E5-83A9-025F77C258F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6EAD4D4-23D0-4185-B350-1CD049587405",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEFF6AD9-D54E-4950-BB08-BE205BBF5CB9",
+    "height": 185,
+    "width": 94,
+    "x": 258,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DD8252BA-0355-4382-99A8-8B1A4D6C66EF"
+    },
+    {
+      "class": "group",
+      "id": "0B02B8B5-8518-42B4-B823-BCBB06BC9146"
+    }
+  ],
+  "name": "Skeleton State",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2934351B-2921-4308-907A-D7F1BD1BD745",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

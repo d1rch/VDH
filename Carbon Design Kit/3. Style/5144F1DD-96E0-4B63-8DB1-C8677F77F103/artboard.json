@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5144F1DD-96E0-4B63-8DB1-C8677F77F103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1728,
+    "width": 2809,
+    "x": 633,
+    "y": 1048
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "40BAEC2E-4EDD-4AA6-9CE3-7EF4F3167B3A"
+    },
+    {
+      "class": "group",
+      "id": "5EB8DF3E-58D2-4149-8F13-7DD54723CC82"
+    },
+    {
+      "class": "group",
+      "id": "9A307B33-F49A-47DA-9788-D393F4259D40"
+    },
+    {
+      "class": "group",
+      "id": "A2E26FD5-3ED7-4937-81A2-11A7EC94C30E"
+    },
+    {
+      "class": "group",
+      "id": "E5691DDF-D0CF-431B-9EE5-773CC8938039"
+    },
+    {
+      "class": "group",
+      "id": "89E10E07-1A8A-4453-BD41-F4D51FE87701"
+    },
+    {
+      "class": "group",
+      "id": "BDD92B11-48AA-40C0-877B-27C1FED25B86"
+    },
+    {
+      "class": "group",
+      "id": "5C6B44FF-7CA4-459D-BA19-28D9DF11D4D4"
+    },
+    {
+      "class": "group",
+      "id": "1775C248-AF99-40AD-A3F8-71EDE34FAEAE"
+    },
+    {
+      "class": "group",
+      "id": "A745F70A-7CC9-415E-B635-F507F33677CD"
+    },
+    {
+      "class": "group",
+      "id": "9EC0B4D7-175E-4677-800E-E592CC9C88C0"
+    },
+    {
+      "class": "group",
+      "id": "B9C96536-3806-49FB-954C-B4E0753A7E83"
+    },
+    {
+      "class": "group",
+      "id": "74153D2D-4DDA-41D3-9C70-79876821F505"
+    },
+    {
+      "class": "group",
+      "id": "B6907421-5FE3-4678-9DA4-9DFF8CE5CB8C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 64.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 51,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 992
+  },
+  "name": "IBM Design - Colors",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

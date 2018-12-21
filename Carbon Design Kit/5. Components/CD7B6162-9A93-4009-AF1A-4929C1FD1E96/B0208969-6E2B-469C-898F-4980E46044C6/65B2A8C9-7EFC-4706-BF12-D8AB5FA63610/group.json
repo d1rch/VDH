@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "65B2A8C9-7EFC-4706-BF12-D8AB5FA63610",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 503,
+    "width": 1116,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5871FB02-CAB3-471C-B15A-9635BA6D11DB"
+    },
+    {
+      "class": "group",
+      "id": "4DFA48A8-4E05-4B0F-842C-295BDBA22A91"
+    },
+    {
+      "class": "group",
+      "id": "C054D91E-3B0B-4DF0-B463-FD92F6708530"
+    },
+    {
+      "class": "group",
+      "id": "657F2891-82E7-4C25-B745-07D506C1D344"
+    }
+  ],
+  "name": "Data Table/Expanding/32px",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

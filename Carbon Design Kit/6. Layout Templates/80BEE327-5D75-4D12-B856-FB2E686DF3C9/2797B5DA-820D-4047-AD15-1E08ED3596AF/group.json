@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2797B5DA-820D-4047-AD15-1E08ED3596AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 427,
+    "width": 1009,
+    "x": -5,
+    "y": 1719
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "91B29772-CFB4-4008-9324-5589766940FA"
+    },
+    {
+      "class": "group",
+      "id": "16AB5F1B-5D5E-4B43-AEB6-2CE9F558E1C8"
+    },
+    {
+      "class": "group",
+      "id": "AF24B845-F1A1-459B-98A1-3B7CB6345A0F"
+    },
+    {
+      "class": "text",
+      "id": "662F9BED-0207-4483-8A38-F9EF0CB080C0"
+    },
+    {
+      "class": "shapePath",
+      "id": "57A823DC-6689-4B14-BD78-694052189381"
+    }
+  ],
+  "name": "Bottom tiles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

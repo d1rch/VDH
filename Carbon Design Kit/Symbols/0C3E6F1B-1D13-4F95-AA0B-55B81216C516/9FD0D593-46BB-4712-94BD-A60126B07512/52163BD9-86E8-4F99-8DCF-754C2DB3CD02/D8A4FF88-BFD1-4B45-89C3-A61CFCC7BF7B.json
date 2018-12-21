@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8A4FF88-BFD1-4B45-89C3-A61CFCC7BF7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A22464D4-0752-4A69-B5FD-0FA83C9DD314",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF409187-01DF-4EA9-A7C6-2297BC0662CA",
+    "height": 14,
+    "width": 135,
+    "x": 20,
+    "y": 37
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add-on/Interior Left Nav/Pieces/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92061A51-162E-4F94-9FC8-105F7C5A63C0",
+      "overrideName": "6973C2BC-1947-486D-95B2-F8CAAC7E0B69_stringValue",
+      "value": "Primary 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35D5B4FE-16FE-4D35-A398-0A516830DD4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B147618-EADB-4AFF-BB66-C364A63A61C1",
+  "verticalSpacing": 0
+}

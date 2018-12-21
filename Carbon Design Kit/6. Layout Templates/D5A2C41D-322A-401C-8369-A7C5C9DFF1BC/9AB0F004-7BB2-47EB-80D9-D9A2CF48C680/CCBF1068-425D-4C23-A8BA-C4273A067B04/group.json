@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCBF1068-425D-4C23-A8BA-C4273A067B04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 510,
+    "x": 0,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FAA4D24-F5C3-4F4A-A56A-99EEB5FDDB2A"
+    },
+    {
+      "class": "group",
+      "id": "59E4B5F8-D591-48E1-8D88-DB4A88436BD7"
+    },
+    {
+      "class": "group",
+      "id": "9CDBE8D4-605D-441D-B4B6-3EDFB21F466E"
+    },
+    {
+      "class": "group",
+      "id": "9170180D-F336-41FF-A71A-48B982194AE3"
+    },
+    {
+      "class": "group",
+      "id": "2841CA1C-5696-4D26-A050-DAD6D2ED483C"
+    },
+    {
+      "class": "group",
+      "id": "4FB96F26-3857-474E-B783-7DEF50042738"
+    }
+  ],
+  "name": "Progress Indicator - First Step",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

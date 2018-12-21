@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "272EA97C-77F2-41F9-AFE1-7E22D4B749AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F16197B-1A8A-405E-AA3B-F0E090D614B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5172179-1506-499A-B0D2-08C7A3E329D8",
+    "height": 910,
+    "width": 734,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8117CCB7-4200-481E-ABE3-9C3096777C5F"
+    },
+    {
+      "class": "text",
+      "id": "36FB12B1-E9C0-4B8D-BDBA-71AF6617E857"
+    },
+    {
+      "class": "text",
+      "id": "23DAACF1-2102-49F5-BEE7-C38A7F2F6EA9"
+    },
+    {
+      "class": "text",
+      "id": "5AABC91A-5483-421D-921C-BDE5E941F394"
+    },
+    {
+      "class": "text",
+      "id": "1DBEA868-B1C9-4BA6-809B-8A1127CCC0B5"
+    },
+    {
+      "class": "text",
+      "id": "D2E38CCA-B508-4487-88F4-D70FFC187FA0"
+    },
+    {
+      "class": "text",
+      "id": "1D447588-9227-40A9-A21B-8F921A375692"
+    },
+    {
+      "class": "text",
+      "id": "8F547829-6F39-45D2-8A4C-4B8C9AC53945"
+    },
+    {
+      "class": "text",
+      "id": "C5CF8F1D-6FA6-4C38-9746-34BF48CBBE85"
+    },
+    {
+      "class": "text",
+      "id": "68049AB9-E671-44C4-9601-993E7BB36DE4"
+    },
+    {
+      "class": "text",
+      "id": "ED4217FC-BEA9-46AA-85AC-012C0663E611"
+    }
+  ],
+  "name": "Labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA031825-0EEF-4A03-91A8-46C76CBBA588",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4542660F-1A2C-4952-8DE8-82F1CC9F4250",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2482535C-6C29-4069-9170-73FD632AE782",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76E53753-12AC-4100-915A-BDEFF40CEFC8",
+    "height": 66,
+    "width": 310,
+    "x": 326,
+    "y": 155
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF849CDA-618A-419E-8EF7-EABF9F29796E",
+      "overrideName": "C6D4A885-4C93-4354-BA0D-576DEFC521F5_symbolID",
+      "value": "6E6414D5-A9C3-49DD-B5D7-E79E2F3070C3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61E8097D-7EF0-482D-912A-818111C20319",
+      "overrideName": "D4E99460-C714-4EDE-B258-B6458C0C5738/E9BA6193-9A0D-4656-8630-344C9E75EE22_stringValue",
+      "value": "Address 2 (optional)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D8F1060-BD49-47E9-9D4D-6BAE0F7BE5D6",
+      "overrideName": "33B3BBC4-F16E-4A0A-8029-46B4E06E4EC6/2B4DEDFE-9416-4A7C-BE26-BF99E592C56A_stringValue",
+      "value": "Unit #, Apt, Suite"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B797B35-28D1-40A4-BE5E-54FD310A3536",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9700EF5A-DF31-4423-A4CF-1047D276688A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FEDA58C-89CE-48B8-A55A-7F0B344ACF4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D23DB86-290B-41D9-885D-16D8C131F1BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33E62331-09E4-4E93-8A96-060578B2C811",
+    "height": 165,
+    "width": 309,
+    "x": 660,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Tile/Selectable/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04405569-8765-490F-BB20-0F4977B35570",
+      "overrideName": "FED8EDD0-4628-40F2-BF83-1314E5656880_symbolID",
+      "value": "872D3AE7-52B3-454B-86D9-F7CC3B00C099"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42636DA7-5997-458E-9DB1-7D646EE97AC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A335820-1265-43A0-A36A-8C2C18E37BD0",
+  "verticalSpacing": 0
+}

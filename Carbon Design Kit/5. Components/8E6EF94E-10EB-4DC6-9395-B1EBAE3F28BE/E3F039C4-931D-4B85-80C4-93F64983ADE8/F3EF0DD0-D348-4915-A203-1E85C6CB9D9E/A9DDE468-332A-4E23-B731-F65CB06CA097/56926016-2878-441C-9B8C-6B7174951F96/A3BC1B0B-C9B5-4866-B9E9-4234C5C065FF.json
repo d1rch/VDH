@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3BC1B0B-C9B5-4866-B9E9-4234C5C065FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "538E86DE-FC46-40F9-BFB9-F4DBE27AF872",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B05753E3-E378-477B-9D8A-A00ABB97AF7E",
+    "height": 121,
+    "width": 300,
+    "x": 0,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Dropdown/Inline Dropdown/States/Hover, open",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E6CCE2D-8F2D-4A62-8D4C-FBDEB5140259",
+      "overrideName": "89888D23-085B-49E7-A769-4C3ABA62CAA5_symbolID",
+      "value": "DB66E9F5-3399-4F7D-A896-961A6A2EF18D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59110D51-F0CF-4F00-BDCF-F913F8B553A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF35FAA0-10E8-4291-8CC4-232A826AFC64",
+  "verticalSpacing": 0
+}

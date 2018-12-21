@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11356861-587D-4FE4-8729-F46F17730334",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 123,
+    "width": 636,
+    "x": 181,
+    "y": 777
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "96B285FF-6521-444E-95BC-A782D762B308"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C964A7ED-B3CD-47FE-AFEA-1B00531AC3DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D373EAA-88B0-459A-AD57-B58CDEC86DE8"
+    },
+    {
+      "class": "text",
+      "id": "1285AC63-FEA1-4862-A046-362DD368F5A5"
+    }
+  ],
+  "name": "Payment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

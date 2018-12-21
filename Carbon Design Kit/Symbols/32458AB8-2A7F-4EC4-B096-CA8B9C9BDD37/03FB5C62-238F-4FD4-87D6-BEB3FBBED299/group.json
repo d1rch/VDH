@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "03FB5C62-238F-4FD4-87D6-BEB3FBBED299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 107,
+    "width": 418,
+    "x": -1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "99B28F36-E040-4052-995C-49D8B6C9EFB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B0837EC-EB90-409F-824A-D306F29C97D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53800CA2-433A-4EE0-AD31-560722A2EA73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "036015E3-2FD7-41A3-8E7E-CEC4AEF50ED1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032FD9E6-9A88-4761-928E-502A88C833EC"
+    }
+  ],
+  "name": "Breadcrumb/Tooltip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

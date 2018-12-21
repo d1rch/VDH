@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2CADCAD-3B51-44C2-B56D-10ED5568B1E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F9F4484-A13E-47F2-A960-D0EB702F0000"
+    },
+    {
+      "class": "text",
+      "id": "45C49F64-4BEE-447B-8CE6-47A9251AAFB1"
+    },
+    {
+      "class": "text",
+      "id": "93D81DF8-A115-4ABB-8D6D-BC691CA65548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F637A28D-595E-4396-BAA3-F1B53E6D8DD0"
+    },
+    {
+      "class": "text",
+      "id": "53093A3C-A067-429F-AAB1-D2834D9A959D"
+    },
+    {
+      "class": "rectangle",
+      "id": "924C1BEF-F341-4799-B52A-3CC568C69569"
+    }
+  ],
+  "name": "Notification/Toast/Warning",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

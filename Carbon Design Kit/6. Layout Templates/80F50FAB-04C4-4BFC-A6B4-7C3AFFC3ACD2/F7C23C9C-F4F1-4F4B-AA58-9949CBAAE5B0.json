@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7C23C9C-F4F1-4F4B-AA58-9949CBAAE5B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAD75654-E417-4F38-A9AE-EFBEF351716B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5C31583-80E5-4F15-99B8-2776737E87EE",
+    "height": 40,
+    "width": 637,
+    "x": 50,
+    "y": 918
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Notification/Inline/Single/Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88D8542D-603A-4607-90F4-F84097F8DDAE",
+      "overrideName": "78D027D8-8DE2-4788-ACEE-082831F02E12_stringValue",
+      "value": "Error notification:"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28B7E824-1505-46A4-BE4B-25A56D21D554",
+      "overrideName": "C578BA96-3FF4-4EE7-9C9F-E9C8E34A0EFB_stringValue",
+      "value": "Please fill out the requires fields. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6DA7ED9-E527-4D44-9EC7-B033442289B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "891E40ED-736F-409F-862E-CED698E3E446",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EBBFEB23-4A5A-4E36-8877-A5058A5DAFAC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 189,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0804592-B359-4A45-ADAE-568E9D8D6406",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1580BFF-A51F-4385-893F-530DC7CCD985",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EB60448-7830-49BC-930B-6D5D2868E298",
+    "height": 40,
+    "width": 168,
+    "x": 3148,
+    "y": 8744
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C5C8A31-313B-4151-B1DF-144DC57F7344",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E3A8213D-D631-4E4D-8F51-A820E1584927"
+    }
+  ],
+  "name": "Component/Modal/Pieces/Button Groupings/Defaut modal",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53C52236-6873-4D76-BBD9-34C09C50028A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ADB3EE7A-BE42-47A6-A0D9-BF7C4FAEDAF4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FE0F5432-7E85-48C6-97B4-EC75D143E790",
+    "guides": [
+    ]
+  }
+}

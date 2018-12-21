@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "91ECCFAA-E69F-49ED-B386-E1DB52033880",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "373A8E07-E74B-46C7-A020-91A6047091E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B32CFCF-64DA-4ED3-8A74-0546DB930C3A",
+    "height": 119,
+    "width": 605,
+    "x": 51,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D907B50D-01A6-480C-823A-9B39F6FB8016"
+    },
+    {
+      "class": "group",
+      "id": "C0145400-0877-440E-A583-2CFAE2CC0435"
+    }
+  ],
+  "name": "Order section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D7DA5CC-4C64-4C59-B050-8BDBEEC469B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

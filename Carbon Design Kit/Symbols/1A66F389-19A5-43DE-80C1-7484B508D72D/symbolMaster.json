@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ED534E23-84FF-4D1A-9BE9-C3E7B1573341",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 130,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A66F389-19A5-43DE-80C1-7484B508D72D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68F4D971-27B3-4E32-924C-4BBC4EF39A54",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18F3F6EF-A655-483A-9FF5-8594DB925A25",
+    "height": 11,
+    "width": 16,
+    "x": 116,
+    "y": 23142
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF800883-6F62-45C9-A8FD-7B7600B5D83A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "87AE3CDA-7C00-4E16-AF40-EEA263DE3A0E"
+    }
+  ],
+  "name": "UI Icon/email/$ui-01",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "905D0CDC-5DE7-48D4-B938-AFBC0EF2771E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31E738D4-317B-4393-AB70-202A93DAB082",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64FE0C95-8D94-4328-A35C-93298BFA505A",
+    "guides": [
+    ]
+  }
+}

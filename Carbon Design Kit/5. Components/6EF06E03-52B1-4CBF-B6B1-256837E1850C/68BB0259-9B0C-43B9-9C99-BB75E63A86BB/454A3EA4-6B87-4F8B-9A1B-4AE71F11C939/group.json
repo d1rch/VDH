@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "454A3EA4-6B87-4F8B-9A1B-4AE71F11C939",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE3EB1AB-C474-4B4A-8335-3FC00966717F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F90410D8-5C0B-407C-B712-B3700B0C33BA",
+    "height": 457,
+    "width": 410,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9A076951-7B46-453F-94A0-7DB32CDCE2C2"
+    },
+    {
+      "class": "text",
+      "id": "248664B8-D269-4E29-A592-12880DD6F2E1"
+    },
+    {
+      "class": "text",
+      "id": "E670BFF2-E6E5-42FE-B41C-AC339F11B58E"
+    },
+    {
+      "class": "text",
+      "id": "E914C94E-362B-4139-A9C6-E18FB4E35FE6"
+    },
+    {
+      "class": "text",
+      "id": "E357D951-2982-4610-910D-31A3F36A77E5"
+    }
+  ],
+  "name": "Lables",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C50A2E38-5149-41BF-A74C-731456FDA37C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

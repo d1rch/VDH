@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF397544-F35B-4B1E-BF6A-5DF6026A4387",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0B7D834-BFC1-4A94-B647-F9F0C1895107",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC1B6ECE-7EE4-443C-A46C-EEE64B793080",
+    "height": 322,
+    "width": 529,
+    "x": 1773,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F1154F5A-A62D-403E-B6CF-A079BBBA8A1B"
+    },
+    {
+      "class": "group",
+      "id": "AAF66332-0AC3-43A2-A5DF-8C599469EF9B"
+    }
+  ],
+  "name": "Danger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF7D7E59-F347-4643-9132-38FD2C96308A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

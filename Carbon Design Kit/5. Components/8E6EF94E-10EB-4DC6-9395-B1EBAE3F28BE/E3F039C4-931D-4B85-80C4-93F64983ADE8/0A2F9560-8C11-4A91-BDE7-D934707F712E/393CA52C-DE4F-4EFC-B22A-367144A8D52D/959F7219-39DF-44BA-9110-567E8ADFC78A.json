@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "959F7219-39DF-44BA-9110-567E8ADFC78A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46571C9A-5DA9-4E43-BD59-90929E6CCC14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A42CB48-CFFD-4D85-A135-E9751275A7F6",
+    "height": 175,
+    "width": 418,
+    "x": 0,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Text Input/Text Area/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EB9F7EA-29BE-4D88-8373-1710099E8A10",
+      "overrideName": "C7ECC793-98B0-4C03-8562-B0DE0331C65B_symbolID",
+      "value": "66A78AAE-9A86-418E-91CD-713193200439"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9E7F6BC-6347-4CF6-B532-18DA637FC800",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E5B6753-64B6-42FA-B0D2-40B4D65E1B1D",
+  "verticalSpacing": 0
+}
